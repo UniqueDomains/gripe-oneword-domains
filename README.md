@@ -1,0 +1,2 @@
+# gripe-oneword-domains
+List of gripe one word domain names with availability, expiration date, attractiveness, demand score.
