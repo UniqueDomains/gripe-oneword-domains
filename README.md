@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .GRIPE one-word domains still available to buy.
 
-This dataset contains 4,873 .GRIPE one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,872 .GRIPE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.GRIPE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=gripe-oneword-domains&utm_content=description.top) (4,873) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -22,7 +22,7 @@ If you want to search & filters the complete database of [.GRIPE one word domain
 | Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
 | aaa.gripe        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.gripe      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.gripe      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.gripe  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.gripe      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.gripe  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.GRIPE one word domain
 | abatic.gripe     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.gripe    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.gripe   | available | 50       | 1%     | 8      |           |         |         |
-| abc.gripe        | available | 102      | 41%    | 3      |           |         |         |
+| abc.gripe        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.gripe  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.gripe  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.gripe | available | 56       | 1%     | 10     |           |         |         |
