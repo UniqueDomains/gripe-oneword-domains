@@ -70,19 +70,19 @@ print(df.head())
 | alpha.gripe    | available | $8.98     | —             | 90             | 53     | 5      | namecheap        |
 | book.gripe     | resell    | —         | —             | 82             | 55     | 4      | NameCheap, Inc.  |
 | ace.gripe      | premium   | $41.25    | $41.25        | 88             | 57     | 3      | name.com         |
-| fast.gripe     | available | $8.98     | —             | 82             | 53     | 4      | namecheap        |
+| true.gripe     | available | $8.98     | —             | 86             | 52     | 4      | namecheap        |
 | buy.gripe      | resell    | —         | —             | 106            | 53     | 3      | Spaceship, Inc.  |
 | data.gripe     | premium   | $42.90    | $42.90        | 70             | 56     | 4      | namecheap        |
-| true.gripe     | available | $8.98     | —             | 86             | 52     | 4      | namecheap        |
+| fast.gripe     | available | $8.98     | —             | 82             | 52     | 4      | namecheap        |
 | that.gripe     | resell    | —         | —             | 94             | 36     | 4      | GoDaddy.com, LLC |
 | business.gripe | premium   | $85.80    | $85.80        | 100            | 53     | 8      | namecheap        |
 | world.gripe    | available | $8.98     | —             | 90             | 51     | 5      | namecheap        |
 | sexy.gripe     | resell    | —         | —             | 82             | 34     | 4      | GoDaddy.com, LLC |
 | one.gripe      | premium   | $250      | $250          | 132            | 50     | 3      | name.com         |
-| simple.gripe   | available | $8.98     | —             | 128            | 48     | 6      | namecheap        |
+| simple.gripe   | available | $8.98     | —             | 128            | 49     | 6      | namecheap        |
 | game.gripe     | premium   | $41.25    | $41.25        | 120            | 50     | 4      | name.com         |
 | epic.gripe     | available | $8.98     | —             | 88             | 47     | 4      | namecheap        |
-| design.gripe   | premium   | $82.50    | $82.50        | 108            | 50     | 6      | name.com         |
+| abc.gripe      | premium   | $85.80    | $85.80        | 102            | 50     | 3      | namecheap        |
 | only.gripe     | available | $8.98     | —             | 110            | 46     | 4      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
