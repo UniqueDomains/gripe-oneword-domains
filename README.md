@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .gripe one-word domains from Uniqu
 
 **Public extract:** 9,832 rows · **Live catalog:** 9,832 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/gripe`  
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,10 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| alpha.gripe    | available | $8.98     | —             | 90             | 54     | 5      | namecheap        |
+| free.gripe     | available | $8.98     | —             | 88             | 54     | 4      | namecheap        |
 | first.gripe    | resell    | $8.98     | —             | 80             | 41     | 5      | GoDaddy.com, LLC |
 | cloud.gripe    | premium   | $85.80    | $85.80        | 70             | 59     | 5      | namecheap        |
-| free.gripe     | available | $8.98     | —             | 88             | 54     | 4      | namecheap        |
+| alpha.gripe    | available | $8.98     | —             | 90             | 53     | 5      | namecheap        |
 | book.gripe     | resell    | —         | —             | 82             | 55     | 4      | NameCheap, Inc.  |
 | ace.gripe      | premium   | $41.25    | $41.25        | 88             | 57     | 3      | name.com         |
 | fast.gripe     | available | $8.98     | —             | 82             | 53     | 4      | namecheap        |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GRIPE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GRIPE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
