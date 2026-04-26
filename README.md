@@ -1,22 +1,22 @@
-# Available .GRIPE One-Word Domains (9,832)
+# Available .GRIPE One-Word Domains (12,257)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C832%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C832%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C257%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .gripe one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .gripe one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,257 domains** on the canonical page below.
 
-**Public extract:** 9,832 rows · **Live catalog:** 9,832 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,257 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/gripe`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .GRIPE one-word domain
 
 ### Files
 
-- `gripe.csv` — public CSV extract (9,832 rows)
-- `gripe.json` — public JSON extract (9,832 rows)
+- `gripe.csv` — public CSV extract (1,000 rows)
+- `gripe.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| free.gripe     | available | $8.98     | —             | 88             | 54     | 4      | namecheap        |
-| first.gripe    | resell    | $8.98     | —             | 80             | 41     | 5      | GoDaddy.com, LLC |
-| cloud.gripe    | premium   | $85.80    | $85.80        | 70             | 59     | 5      | namecheap        |
-| alpha.gripe    | available | $8.98     | —             | 90             | 53     | 5      | namecheap        |
-| book.gripe     | resell    | —         | —             | 82             | 55     | 4      | NameCheap, Inc.  |
-| ace.gripe      | premium   | $41.25    | $41.25        | 88             | 57     | 3      | name.com         |
-| true.gripe     | available | $8.98     | —             | 86             | 52     | 4      | namecheap        |
-| buy.gripe      | resell    | —         | —             | 106            | 53     | 3      | Spaceship, Inc.  |
-| data.gripe     | premium   | $42.90    | $42.90        | 70             | 56     | 4      | namecheap        |
-| fast.gripe     | available | $8.98     | —             | 82             | 52     | 4      | namecheap        |
-| that.gripe     | resell    | —         | —             | 94             | 36     | 4      | GoDaddy.com, LLC |
-| business.gripe | premium   | $85.80    | $85.80        | 100            | 53     | 8      | namecheap        |
-| world.gripe    | available | $8.98     | —             | 90             | 51     | 5      | namecheap        |
-| sexy.gripe     | resell    | —         | —             | 82             | 34     | 4      | GoDaddy.com, LLC |
-| one.gripe      | premium   | $250      | $250          | 132            | 50     | 3      | name.com         |
-| simple.gripe   | available | $8.98     | —             | 128            | 49     | 6      | namecheap        |
-| game.gripe     | premium   | $41.25    | $41.25        | 120            | 50     | 4      | name.com         |
-| epic.gripe     | available | $8.98     | —             | 88             | 47     | 4      | namecheap        |
-| abc.gripe      | premium   | $85.80    | $85.80        | 102            | 50     | 3      | namecheap        |
-| only.gripe     | available | $8.98     | —             | 110            | 46     | 4      | namecheap        |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| agents.gripe        | available | $8.98     | —             | 56             | 50     | 6      | namecheap         |
+| online.gripe        | resell    | —         | —             | 70             | 62     | 7      | Sav.com, LLC - 18 |
+| cars.gripe          | premium   | $41.25    | —             | 66             | 47     | 4      | name.com          |
+| robots.gripe        | available | $6.99     | $6.99         | 62             | 47     | 6      | namesilo          |
+| justin.gripe        | premium   | $82.50    | —             | 58             | 38     | 7      | name.com          |
+| skills.gripe        | available | $8.98     | —             | 58             | 47     | 6      | namecheap         |
+| WiFi.gripe          | premium   | $46.20    | $46.20        | 83             | 37     | 5      | namecheap         |
+| coins.gripe         | available | $8.98     | —             | 56             | 41     | 5      | namecheap         |
+| pages.gripe         | premium   | $82.50    | —             | 52             | 28     | 5      | name.com          |
+| matcha.gripe        | available | $8.98     | —             | 86             | 39     | 6      | namecheap         |
+| Tests.gripe         | premium   | $92.40    | $92.40        | 49             | 21     | 5      | namecheap         |
+| tokens.gripe        | available | $6.99     | $6.99         | 51             | 36     | 6      | namesilo          |
+| watches.gripe       | premium   | $41.25    | —             | 84             | 19     | 7      | name.com          |
+| spectra.gripe       | available | $8.98     | —             | 62             | 34     | 7      | namecheap         |
+| gives.gripe         | premium   | $82.50    | —             | 52             | 12     | 5      | name.com          |
+| etc.gripe           | available | $8.98     | —             | 58             | 34     | 3      | namecheap         |
+| LongBeach.gripe     | premium   | $92.40    | $92.40        | 62             | 11     | 10     | namecheap         |
+| Cats.gripe          | available | $8.98     | —             | 59             | 33     | 4      | namecheap         |
+| VirginiaBeach.gripe | premium   | $92.40    | $92.40        | 58             | 9      | 14     | namecheap         |
+| teams.gripe         | available | $8.98     | —             | 62             | 32     | 5      | namecheap         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,832-row public sample | 9,832 live domains                               |
+| 1,000-row public sample | 12,257 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GRIPE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GRIPE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
