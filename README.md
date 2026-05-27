@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gripe one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,813 domains · **Median ask:** $10.79 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/gripe`  
 **Best for:** founders, investors, studios
 
@@ -78,10 +78,10 @@ print(df.head())
 | prompts.gripe       | available | $6.99     | $6.99         | 54             | 39     | 7      | namesilo          |
 | tokens.gripe        | available | $6.99     | $6.99         | 51             | 36     | 6      | namesilo          |
 | spectra.gripe       | available | $8.98     | —             | 62             | 34     | 7      | namecheap         |
-| etc.gripe           | available | $8.98     | —             | 58             | 34     | 3      | namecheap         |
 | Cats.gripe          | available | $8.98     | —             | 59             | 33     | 4      | namecheap         |
 | teams.gripe         | available | $8.98     | —             | 62             | 32     | 5      | namecheap         |
-| partners.gripe      | available | $8.98     | —             | 61             | 32     | 8      | namecheap         |
+| etc.gripe           | available | $8.98     | —             | 58             | 32     | 3      | namecheap         |
+| partners.gripe      | available | $8.98     | —             | 61             | 31     | 8      | namecheap         |
 | letsgo.gripe        | available | $8.98     | —             | 57             | 31     | 7      | namecheap         |
 | maps.gripe          | available | $8.98     | —             | 56             | 31     | 4      | namecheap         |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GRIPE One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GRIPE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
