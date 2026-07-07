@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .gripe one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,813 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,813 domains · **Median ask:** $10.79 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,813 domains · **Median ask:** $10.57 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/gripe`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/gripe`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GRIPE one-word domain
 
 ### Files
 
-- `gripe.csv` — public CSV extract (1,000 rows)
-- `gripe.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `gripe.csv`, public CSV extract (1,000 rows)
+- `gripe.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| agents.gripe        | available | $8.98     | —             | 56             | 50     | 6      | namecheap         |
-| online.gripe        | resell    | —         | —             | 70             | 62     | 7      | Sav.com, LLC - 18 |
-| WiFi.gripe          | premium   | $46.20    | $46.20        | 83             | 37     | 5      | namecheap         |
-| robots.gripe        | available | $6.99     | $6.99         | 62             | 47     | 6      | namesilo          |
-| pages.gripe         | premium   | $82.50    | —             | 52             | 28     | 5      | name.com          |
-| skills.gripe        | available | $8.98     | —             | 58             | 47     | 6      | namecheap         |
-| Tests.gripe         | premium   | $92.40    | $92.40        | 49             | 21     | 5      | namecheap         |
-| coins.gripe         | available | $8.98     | —             | 56             | 41     | 5      | namecheap         |
-| gives.gripe         | premium   | $82.50    | —             | 52             | 12     | 5      | name.com          |
-| matcha.gripe        | available | $8.98     | —             | 86             | 39     | 6      | namecheap         |
-| VirginiaBeach.gripe | premium   | $92.40    | $92.40        | 58             | 9      | 14     | namecheap         |
-| prompts.gripe       | available | $6.99     | $6.99         | 54             | 39     | 7      | namesilo          |
-| tokens.gripe        | available | $6.99     | $6.99         | 51             | 36     | 6      | namesilo          |
-| spectra.gripe       | available | $8.98     | —             | 62             | 34     | 7      | namecheap         |
-| Cats.gripe          | available | $8.98     | —             | 59             | 33     | 4      | namecheap         |
-| teams.gripe         | available | $8.98     | —             | 62             | 32     | 5      | namecheap         |
-| etc.gripe           | available | $8.98     | —             | 58             | 32     | 3      | namecheap         |
-| partners.gripe      | available | $8.98     | —             | 61             | 31     | 8      | namecheap         |
-| letsgo.gripe        | available | $8.98     | —             | 57             | 31     | 7      | namecheap         |
-| maps.gripe          | available | $8.98     | —             | 56             | 31     | 4      | namecheap         |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| add.gripe | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
+| abc.gripe | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap |
+| BJP.gripe | available | $8.98     | —             | medium         | low    | 3      | namecheap |
+| ADS.gripe | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo  |
+| bob.gripe | available | $6.99     | $6.99         | high           | medium | 3      | namesilo  |
+| cot.gripe | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
+| btw.gripe | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
+| dad.gripe | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
+| cup.gripe | available | $8.98     | —             | high           | low    | 3      | namecheap |
+| day.gripe | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
+| fee.gripe | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
+| dye.gripe | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo  |
+| fog.gripe | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
+| ear.gripe | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo  |
+| gag.gripe | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
+| eye.gripe | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo  |
+| gal.gripe | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo  |
+| gym.gripe | premium   | $82.50    | —             | high           | low    | 3      | name.com  |
+| leg.gripe | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
+| His.gripe | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .gripe domains. The words range from broad nouns like shelter, welfare, tree, and energy to more emotional or descriptive terms like feeling, bore, and adept. That makes this set uneven by design: some names read clearly as complaint, review, or advocacy brands, while others rely on irony or unusual positioning. When comparing these domains, start with whether the keyword works naturally with .gripe. Stronger choices feel intentional, memorable, and easy to explain out loud. Weaker choices may be cheap, but they can carry lower trust, narrower buyer appeal, or unclear commercial use.
+This selection focuses on one-word .gripe domain names covering everyday nouns (herbbutter.gripe, midmorning.gripe), retail and lifestyle terms (windowshop.gripe), and pop-culture-inspired names (WonderWoman.gripe, Snickers.gripe). With a median ask of $10.57 across 12,813 listings, most names sit well within reach for quick registration or resale evaluation. Because .gripe carries a niche, opinion-driven connotation, names here often lean toward complaint, commentary, or parody use cases — useful context when weighing brandability against risk.
 
-- Best fit: complaint, review, advocacy, or satire angles
-- Median ask is 10.79 across this .gripe selection
-- Check if the word becomes clearer or weaker with .gripe
-- Plain dictionary words usually beat obscure or awkward terms
+- 12,813 one-word .gripe domain names in this set
+- Median asking price: $10.57 across the list
+- Names range from everyday words to pop-culture terms
+- Suited for parody, commentary, or niche brand angles
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GRIPE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GRIPE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
