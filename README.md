@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gripe one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,461 domains · **Median ask:** $9.40 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/gripe`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| add.gripe | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
-| abc.gripe | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap |
-| BJP.gripe | available | $8.98     | —             | medium         | low    | 3      | namecheap |
-| ADS.gripe | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo  |
-| bob.gripe | available | $6.99     | $6.99         | high           | medium | 3      | namesilo  |
-| cot.gripe | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
-| btw.gripe | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
-| dad.gripe | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
-| bum.gripe | available | $6.98     | $8.98         | low            | low    | 3      | namecheap |
-| day.gripe | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
-| clv.gripe | available | $6.98     | $8.98         | medium         | low    | 3      | namecheap |
-| dye.gripe | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo  |
-| cup.gripe | available | $6.98     | $8.98         | medium         | low    | 3      | namecheap |
-| ear.gripe | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo  |
-| fee.gripe | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
-| eye.gripe | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo  |
-| fog.gripe | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
-| gym.gripe | premium   | $82.50    | —             | high           | low    | 3      | name.com  |
-| gag.gripe | available | $6.99     | $6.99         | high           | low    | 3      | namesilo  |
-| His.gripe | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| simple.gripe  | available | $6.99     | $6.99         | high           | medium | 6      | namesilo    |
+| add.gripe     | available | $6.99     | $6.99         | high           | low    | 3      | namesilo    |
+| service.gripe | resell    | $8.98     | —             | medium         | medium | 7      | Dynadot Inc |
+| abc.gripe     | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap   |
+| BJP.gripe     | available | $8.98     | —             | medium         | low    | 3      | namecheap   |
+| ADS.gripe     | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo    |
+| bob.gripe     | available | $6.99     | $6.99         | high           | medium | 3      | namesilo    |
+| cot.gripe     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo    |
+| btw.gripe     | available | $6.99     | $6.99         | high           | low    | 3      | namesilo    |
+| dad.gripe     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo    |
+| bum.gripe     | available | $6.98     | $8.98         | low            | low    | 3      | namecheap   |
+| day.gripe     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo    |
+| clv.gripe     | available | $6.98     | $8.98         | medium         | low    | 3      | namecheap   |
+| dye.gripe     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo    |
+| cup.gripe     | available | $6.98     | $8.98         | medium         | low    | 3      | namecheap   |
+| ear.gripe     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo    |
+| fee.gripe     | available | $6.99     | $6.99         | high           | low    | 3      | namesilo    |
+| eye.gripe     | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo    |
+| fog.gripe     | available | $6.99     | $6.99         | high           | low    | 3      | namesilo    |
+| gym.gripe     | premium   | $82.50    | —             | high           | low    | 3      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GRIPE One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GRIPE One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
