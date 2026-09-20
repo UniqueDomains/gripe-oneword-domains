@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gripe one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,778 domains · **Median ask:** $8.78 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-19
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/gripe`
 **Best for:** founders, investors, studios
 
@@ -65,10 +65,10 @@ print(df.head())
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
 | add.gripe     | available | $6.99     | $6.99         | high           | low    | 3      | namesilo    |
-| service.gripe | resell    | $8.98     | —             | medium         | medium | 7      | Dynadot Inc |
+| service.gripe | resell    | $8.98     | —             | low            | low    | 7      | Dynadot Inc |
 | abc.gripe     | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap   |
-| BJP.gripe     | available | $8.98     | —             | medium         | low    | 3      | namecheap   |
-| ADS.gripe     | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo    |
+| bjp.gripe     | available | $8.98     | —             | medium         | low    | 3      | namecheap   |
+| ads.gripe     | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo    |
 | bob.gripe     | available | $6.99     | $6.99         | high           | medium | 3      | namesilo    |
 | cot.gripe     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo    |
 | btw.gripe     | available | $6.99     | $6.99         | high           | low    | 3      | namesilo    |
@@ -77,7 +77,7 @@ print(df.head())
 | day.gripe     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo    |
 | clv.gripe     | available | $6.98     | $8.98         | medium         | low    | 3      | namecheap   |
 | dye.gripe     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo    |
-| cup.gripe     | available | $6.98     | $8.98         | medium         | low    | 3      | namecheap   |
+| cup.gripe     | available | $6.99     | $6.99         | medium         | low    | 3      | namesilo    |
 | ear.gripe     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo    |
 | fee.gripe     | available | $6.99     | $6.99         | high           | low    | 3      | namesilo    |
 | eye.gripe     | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo    |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GRIPE One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GRIPE One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
