@@ -1,6 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 62d2abc6-3f73-40b8-87c4-7a662bbadd72,bullheaded.gripe,available,6.98,8.98,medium,low,10,namecheap,,,11/08/2026 08:30
 3c1b9a67-8c7f-416f-9681-c541b6881fac,bellis.gripe,available,6.99,6.99,high,low,6,namesilo,,,23/09/2026 06:15
+f3b96d0b-3689-46da-bbdb-9f7b59e903b0,porcupine.gripe,available,5.38,5.38,high,low,9,spaceship,,,01/10/2026 02:28
 b112c345-ad3a-40b1-a423-2a08e32c38b7,abstruse.gripe,available,6.98,8.98,medium,low,8,namecheap,,,
 53f004f6-a8ce-465a-b280-12f5fc435616,unfit.gripe,available,6.98,8.98,medium,low,5,namecheap,,,12/09/2026 10:23
 9743dd58-9255-476f-9dbb-77c556361a3a,winds.gripe,available,6.99,6.99,medium,low,5,namesilo,,,27/09/2026 22:44
@@ -9,24 +10,28 @@ b112c345-ad3a-40b1-a423-2a08e32c38b7,abstruse.gripe,available,6.98,8.98,medium,l
 25c114dc-ef1d-4945-b18b-5d7c9fbdca09,falkland.gripe,available,5.38,5.38,medium,low,8,spaceship,,,28/09/2026 12:09
 4cfacdfb-fb8e-4691-8f91-7aece725ab47,collects.gripe,available,5.38,5.38,medium,low,8,spaceship,,,29/09/2026 17:04
 3f87fbe7-6f7d-4f52-898a-ffffbbc8fe0a,affiliate.gripe,available,5.57,5.57,high,low,9,dynadot,,,28/09/2026 19:17
+f0f2c39b-b61c-4c47-9690-2af26cfe14f9,provisional.gripe,available,5.2,5.2,high,low,11,cloudflare,,,30/09/2026 19:46
 fd8694a8-21d9-4d05-b65d-333359b1654a,appro.gripe,available,6.99,6.99,high,low,5,namesilo,,,19/09/2026 22:20
 007a1cc9-4216-4a8b-9b62-7124b174424e,soignee.gripe,available,6.98,8.98,medium,low,7,namecheap,,,10/09/2026 13:30
-fb85f9aa-6689-465d-950b-633e9e2a3a9a,xxiii.gripe,available,6.98,8.98,high,low,5,namecheap,,,
+fb85f9aa-6689-465d-950b-633e9e2a3a9a,xxiii.gripe,available,6.98,8.98,medium,low,5,namecheap,,,
 b68fb86e-4450-4013-bc9a-063b3d8062d7,basotho.gripe,available,6.98,8.98,medium,low,7,namecheap,,,22/09/2026 11:35
 f5ab2de9-a074-4e1b-87fb-653b766760a0,gelid.gripe,available,6.98,8.98,medium,low,5,namecheap,,,18/08/2026 21:05
 bbb352a3-d8b0-4a42-aa97-1277d2bc5a37,wyoming.gripe,premium,68.51,68.51,high,low,7,spaceship,,,29/09/2026 06:48
+eec0c941-025f-46ba-9c1c-3c77769253a5,descendants.gripe,available,6.99,6.99,high,low,11,namesilo,,,30/09/2026 22:55
 d1f72a9e-9cd9-4985-a4dc-0e98ca92a220,inane.gripe,available,6.98,8.98,medium,low,5,namecheap,,,07/08/2026 02:43
-de14a46e-0e4e-4a9e-ad6c-3cd7307729d0,remotely.gripe,available,6.98,8.98,high,low,8,namecheap,,,15/09/2026 23:10
+de14a46e-0e4e-4a9e-ad6c-3cd7307729d0,remotely.gripe,available,6.98,8.98,medium,low,8,namecheap,,,15/09/2026 23:10
 4067c1a5-3621-449d-8889-f35e35cf835b,curzon.gripe,available,6.99,6.99,medium,low,6,namesilo,,,29/09/2026 22:25
 694b15c5-c12d-4781-be76-2d56e8728fcd,langley.gripe,available,5.2,5.2,high,low,7,cloudflare,,,28/09/2026 14:40
+57a5de98-6f17-4f04-b3c8-6c9ac4a86987,panthers.gripe,available,5.38,5.38,medium,low,8,spaceship,,,01/10/2026 00:41
 8374ceaf-0ba0-4e3f-a5a8-8b4fff80ee36,cba.gripe,available,5.38,5.38,high,low,3,spaceship,,,28/09/2026 21:48
 bd763369-6c67-4531-8f30-71faf821b6ff,angela.gripe,available,6.99,6.99,high,low,6,namesilo,,,25/09/2026 13:41
 2b5ec583-3a91-4160-a380-ec227a8ec06f,comforted.gripe,available,6.99,6.99,high,low,9,namesilo,,,23/09/2026 15:14
 83c1e0cb-40aa-4acd-988b-1346dc935009,crabs.gripe,available,5.38,5.38,high,low,5,spaceship,,,29/09/2026 00:30
 12b371ba-e4e1-4e44-b7a2-4f86cfd3e9bc,decline.gripe,available,5.38,5.38,medium,low,7,spaceship,,,28/09/2026 13:52
 e38bf4fb-6509-424c-ad6c-8ddec88ea84d,uncoiled.gripe,available,6.98,8.98,medium,low,8,namecheap,,,12/09/2026 05:44
-1c8d578f-8874-4829-8f4d-aa91b530360c,ashkenazi.gripe,available,6.98,8.98,high,low,9,namecheap,,,20/09/2026 13:54
+1c8d578f-8874-4829-8f4d-aa91b530360c,ashkenazi.gripe,available,6.98,8.98,medium,low,9,namecheap,,,20/09/2026 13:54
 c5edb161-05ee-4dfd-a143-5b214791dd14,bennie.gripe,available,6.99,6.99,high,low,6,namesilo,,,23/09/2026 08:32
+d88660fe-5259-4b82-ae2d-6a753b9c2c35,tandy.gripe,available,5.2,5.2,medium,low,5,cloudflare,,,30/09/2026 10:18
 e4c4200f-a194-4c9b-bfe0-0e514388de8b,hacking.gripe,available,6.99,6.99,medium,low,7,namesilo,,,28/09/2026 12:39
 417baa08-44b4-41bf-bbe5-91a4d351db30,vessel.gripe,available,5.2,5.2,high,low,6,cloudflare,,,27/09/2026 16:11
 98468722-5e17-49cb-bec1-fc6c2224cfe0,brainwaves.gripe,available,6.99,6.99,medium,low,10,namesilo,,,20/09/2026 12:58
@@ -39,16 +44,18 @@ d141a16d-944e-4307-88d7-9c23e08272d5,gibber.gripe,available,6.99,6.99,medium,low
 d75272b9-b953-4f0e-8a4d-e78acf1cd1be,explaining.gripe,available,5.2,5.2,high,low,10,cloudflare,,,27/09/2026 22:18
 323e1a9c-8347-448c-8fe4-61a208f6526d,akhenaton.gripe,available,6.99,6.99,medium,low,9,namesilo,,,17/09/2026 23:57
 28443aca-0ed5-46d4-a37d-7dafb3d9eb7f,cleaning.gripe,premium,38.94,38.94,high,low,8,namesilo,,,12/08/2026 10:25
+7376645a-802e-4c77-a51e-3be8b81b8f55,volk.gripe,available,5.57,5.57,high,low,4,dynadot,,,30/09/2026 23:28
 23024a02-5682-494a-9103-c903b1f347bf,fiendish.gripe,available,6.98,8.98,medium,low,8,namecheap,,,14/08/2026 01:31
 dee7fd34-17fb-41af-8572-95d1dfb71ec2,editor.gripe,available,6.98,8.98,high,low,6,namecheap,,,25/09/2026 05:10
 81e0672e-9e6a-4660-8a57-1a5b947b5dd9,candle.gripe,available,5.2,5.2,high,low,6,cloudflare,,,29/09/2026 06:35
 6b3a164a-09cf-464b-b8da-ff8990c8e921,sovereign.gripe,available,6.99,6.99,high,medium,9,namesilo,,,22/09/2026 14:14
 f83a8aec-3cbd-4a16-be7a-53ccafdfb9dd,castle.gripe,available,6.98,8.98,high,low,6,namecheap,,,25/09/2026 04:06
-d4ef8db5-596d-4390-aecf-1d15da57220b,favours.gripe,available,6.99,6.99,high,low,7,namesilo,,,17/09/2026 23:24
+d4ef8db5-596d-4390-aecf-1d15da57220b,favours.gripe,available,6.99,6.99,medium,low,7,namesilo,,,17/09/2026 23:24
 1745e095-b4be-4bd4-83e7-7f1c1a986f4e,jittery.gripe,available,6.98,8.98,medium,low,7,namecheap,,,15/08/2026 08:41
 c14b7487-a330-4e11-80dc-2dc9a510d37b,pauli.gripe,available,6.99,6.99,high,low,5,namesilo,,,29/09/2026 07:50
 0606e63c-3940-416a-83a4-d89f78cb4383,brickly.gripe,available,6.98,8.98,medium,low,7,namecheap,,,11/08/2026 03:51
-a826b460-8494-4e68-8cbe-a0d4c4953b6f,peaked.gripe,available,6.98,8.98,high,low,6,namecheap,,,29/09/2026 21:11
+ee3443d3-b917-4d63-80ae-e6782bbea0eb,desai.gripe,available,6.99,6.99,high,low,5,namesilo,,,30/09/2026 12:39
+a826b460-8494-4e68-8cbe-a0d4c4953b6f,peaked.gripe,available,6.98,8.98,medium,low,6,namecheap,,,29/09/2026 21:11
 4d98a10d-19fd-4d4e-8f59-4e1f9657cf4c,scouting.gripe,available,5.66,5.66,high,low,8,porkbun,,,29/09/2026 00:51
 e0923041-c28e-4a4f-a856-5f519781ed2a,acc.gripe,available,6.99,6.99,high,low,3,namesilo,,,16/09/2026 21:45
 dfe3b962-c769-474b-8a50-7564f0823768,oft.gripe,premium,42.9,42.9,high,low,3,namecheap,,,14/09/2026 20:06
@@ -63,7 +70,7 @@ e6e68888-e9d1-4373-8873-1c7a7c0c8c83,avionic.gripe,available,6.98,8.98,medium,lo
 cf8b2b7f-19f6-401f-8540-385082eef5be,doodlebug.gripe,available,6.99,6.99,medium,low,9,namesilo,,,19/09/2026 12:18
 88af986e-e533-4cca-b05c-24910e827a54,recess.gripe,available,5.38,5.38,medium,low,6,spaceship,,,28/09/2026 13:53
 7823baee-6508-466c-8ac4-eb779cd25396,eliot.gripe,available,6.99,6.99,high,low,5,namesilo,,,25/09/2026 05:27
-d2e23da5-f152-472b-8163-73effe6f27c0,hem.gripe,available,6.98,8.98,high,low,3,namecheap,,,17/09/2026 20:18
+d2e23da5-f152-472b-8163-73effe6f27c0,hem.gripe,available,6.98,8.98,medium,low,3,namecheap,,,17/09/2026 20:18
 660610f7-3dec-4e99-ab3e-5e57d3256956,fraternity.gripe,available,6.99,6.99,high,low,10,namesilo,,,28/09/2026 14:13
 8e91f27f-f342-4023-96a4-ac750aa27f17,article.gripe,available,6.98,8.98,high,low,7,namecheap,,,20/09/2026 11:12
 21198666-3d1e-420f-a90e-25fcbd1deecc,adirondack.gripe,available,5.57,5.57,medium,low,10,dynadot,,,28/09/2026 21:35
@@ -75,12 +82,13 @@ e8c83d01-9421-410d-8bb8-75cc72011e76,fragments.gripe,available,6.99,6.99,low,low
 674f7303-a132-48ed-a9d3-413c5815e95f,detained.gripe,available,6.98,8.98,low,low,8,namecheap,,,29/09/2026 05:25
 17c088c9-73a0-4f36-9ddc-7e21c1c75292,wishful.gripe,available,6.98,8.98,medium,low,7,namecheap,,,07/08/2026 05:07
 50397b82-ec12-4bc4-bbc0-fb2137bda7f2,johnston.gripe,premium,78.54,78.54,high,low,8,namesilo,,,25/09/2026 07:53
+f053dd6d-9fb9-4aed-9882-a0752975b073,afi.gripe,available,6.98,8.98,high,low,3,namecheap,,,30/09/2026 20:06
 7383a7a5-c346-44aa-b266-57a0937b4df1,icky.gripe,available,6.98,8.98,medium,low,4,namecheap,,,13/08/2026 05:07
 3caf9a6f-d37e-4c44-8549-1af025829f46,merits.gripe,available,5.66,5.66,medium,low,6,porkbun,,,29/09/2026 16:29
 ed99641c-2de7-415c-98f6-72bb57c66eb8,feetfirst.gripe,available,6.98,8.98,medium,low,9,namecheap,,,14/09/2026 18:20
 db6be6fb-666e-414a-93b6-f8b89c42bfb8,anethum.gripe,available,6.99,6.99,medium,low,7,namesilo,,,19/09/2026 05:35
 1a3fa326-7a20-4ab2-98cc-486be2f34089,dopy.gripe,available,6.98,8.98,medium,low,4,namecheap,,,14/08/2026 16:02
-b3539920-ec2f-4a02-a6a6-274917f8b727,puzzlement.gripe,available,6.99,6.99,high,low,10,namesilo,,,21/09/2026 17:39
+b3539920-ec2f-4a02-a6a6-274917f8b727,puzzlement.gripe,available,6.99,6.99,medium,low,10,namesilo,,,21/09/2026 17:39
 7514d958-671c-4609-bd56-dc75f085499f,incubation.gripe,available,6.98,8.98,high,low,10,namecheap,,,11/08/2026 06:10
 8be898d1-8f80-41ca-9dcd-bba19eb732b3,dirigible.gripe,available,6.98,8.98,medium,low,9,namecheap,,,14/08/2026 09:02
 0bc214ff-3102-4097-8b85-4a3ae5c75dac,notice.gripe,available,6.98,8.98,high,low,6,namecheap,,,24/09/2026 16:29
@@ -93,6 +101,7 @@ bd09566c-8692-4ede-8551-3983053b54d5,owes.gripe,available,5.38,5.38,high,low,4,s
 6a37a2bc-296f-4989-ac4d-fe35b2e19a89,asmara.gripe,available,6.99,6.99,medium,low,6,namesilo,,,20/09/2026 14:27
 66aac8ba-4f0a-427e-a655-dcde955c4be7,historical.gripe,available,6.98,8.98,high,low,10,namecheap,,,24/09/2026 10:25
 9d4ec3fa-7742-42c0-8e4d-fe77dc9e56cb,dreamlike.gripe,available,6.98,8.98,high,low,9,namecheap,,,14/08/2026 18:45
+af9eaca8-8b75-43be-a2fa-8e61e49abbe4,gillett.gripe,available,6.99,6.99,medium,low,7,namesilo,,,30/09/2026 13:39
 5eebf6a5-2db8-4fb6-aa47-ffb5cb4d3e49,vans.gripe,available,6.99,6.99,medium,low,4,namesilo,,,18/09/2026 22:44
 76dc313b-dc59-45fa-a0b0-d15815c69323,bea.gripe,available,6.99,6.99,high,low,3,namesilo,,,28/09/2026 07:37
 2efe6187-e918-44c2-8408-a4b8fa25f323,blazonry.gripe,available,6.99,6.99,medium,low,8,namesilo,,,24/09/2026 05:06
@@ -102,22 +111,25 @@ e67aac3f-4de3-4d6e-a542-c551083e4fd6,algorithm.gripe,available,6.99,6.99,high,lo
 f84a8208-80d4-4802-9787-6dc1c1286e92,ballista.gripe,available,6.99,6.99,medium,low,8,namesilo,,,20/09/2026 00:35
 ee6ddbee-f6bc-42a5-8848-83e4f822ae0a,armada.gripe,available,5.57,5.57,high,low,6,dynadot,,,28/09/2026 22:05
 1a9d1dda-8ba0-48c9-bb30-4c6c52177d11,blythe.gripe,available,5.38,5.38,high,low,6,spaceship,,,29/09/2026 23:30
-80b9c2ae-fe01-4444-a6c6-e251d6d45c9f,memorise.gripe,available,6.99,6.99,high,low,8,namesilo,,,
+80b9c2ae-fe01-4444-a6c6-e251d6d45c9f,memorise.gripe,available,5.38,5.38,high,low,8,spaceship,,,30/09/2026 20:33
 ea6383dc-7900-41da-bf19-ca1ba29973c7,looker.gripe,available,6.98,8.98,high,low,6,namecheap,,,22/08/2026 16:48
 ad16e9a9-a05b-477b-b510-385433adb6e9,fishing.gripe,available,6.99,6.99,high,low,7,namesilo,,,27/09/2026 03:59
 ab627996-0ae8-42e5-9a29-40c16d46dbba,unreached.gripe,available,6.98,8.98,high,low,9,namecheap,,,04/09/2026 18:48
 81264450-cc20-42fc-924c-49dc01124e20,saw.gripe,premium,34.36,34.36,high,low,3,spaceship,,,28/09/2026 18:13
 523b606e-ff58-480a-a1a4-2299f6840383,sail.gripe,available,5.38,5.38,high,low,4,spaceship,,,29/09/2026 12:14
+098c5aa2-a594-4b53-a737-1f17f575965d,operatives.gripe,available,5.57,5.57,medium,low,10,dynadot,,,01/10/2026 00:05
 e6529bb5-0529-472f-bcc5-f2aef61ac5ac,repugnant.gripe,available,6.98,8.98,medium,low,9,namecheap,,,
-b336e8d5-f48d-4a7b-a72d-966ce99ca56e,pepsi.gripe,available,6.99,6.99,high,low,5,namesilo,,,
+e8e63f72-8c1c-4ce9-9118-901194eb1c6f,susanne.gripe,available,6.99,6.99,high,low,7,namesilo,,,30/09/2026 13:21
+b336e8d5-f48d-4a7b-a72d-966ce99ca56e,pepsi.gripe,available,6.99,6.99,high,low,5,namesilo,,,30/09/2026 06:38
 e51c9c34-8748-4c46-bdbc-a5f1a56d08af,round.gripe,available,6.98,8.98,high,low,5,namecheap,,,09/08/2026 05:09
 6fb78330-9251-4eed-b9aa-8c186c49d9e7,python.gripe,available,6.98,8.98,high,low,6,namecheap,,,29/09/2026 13:44
 920bd79d-bcbf-4b8c-8359-ea491537445d,aiken.gripe,available,6.98,8.98,high,low,5,namecheap,,,17/09/2026 21:01
-870f1b9a-a9d4-4c4d-b98b-7c1454353c1b,burt.gripe,available,6.99,6.99,high,low,4,namesilo,,,25/09/2026 03:54
+870f1b9a-a9d4-4c4d-b98b-7c1454353c1b,burt.gripe,available,6.99,6.99,medium,low,4,namesilo,,,25/09/2026 03:54
 1d1d953c-e59b-4251-8828-beff970d6312,helmholtz.gripe,available,6.99,6.99,high,low,9,namesilo,,,22/09/2026 07:07
 d095a4dd-1151-4641-9f30-7712cbf47497,horatio.gripe,available,6.99,6.99,medium,low,7,namesilo,,,28/09/2026 00:17
 a9794262-eafa-4018-adf9-cd85db489141,overwhelming.gripe,available,5.2,5.2,high,low,12,cloudflare,,,28/09/2026 07:20
 78999f0f-377a-452a-b197-2e48e78b9883,convert.gripe,available,6.98,8.98,high,low,7,namecheap,,,24/09/2026 17:55
+97cc693a-377d-49cc-a06d-ec096a515676,carpathian.gripe,available,6.98,8.98,high,low,10,namecheap,,,30/09/2026 20:21
 55f489d3-02ca-4630-b30e-319ec3c63943,punjab.gripe,available,6.98,8.98,high,low,6,namecheap,,,27/09/2026 05:06
 807db545-1b38-491e-aa8b-d4206ecafc69,pelvis.gripe,available,5.38,5.38,high,low,6,spaceship,,,29/09/2026 19:56
 32521595-3a0a-4453-9709-bf65e672c0f1,critically.gripe,available,6.99,6.99,high,low,10,namesilo,,,28/09/2026 14:26
@@ -125,16 +137,18 @@ a9794262-eafa-4018-adf9-cd85db489141,overwhelming.gripe,available,5.2,5.2,high,l
 85fbb4a2-4ce2-45e4-9e85-fbcf9b6d1e84,offense.gripe,available,6.98,8.98,high,low,7,namecheap,,,04/09/2026 01:32
 d69667fd-cd50-471a-8046-962a66891d10,humongous.gripe,available,6.98,8.98,medium,low,9,namecheap,,,08/08/2026 12:58
 06a06de7-704c-4830-b7ff-da82ee0605e6,marion.gripe,available,6.99,6.99,high,low,6,namesilo,,,25/09/2026 14:37
+188aceaa-83e7-44ee-b25e-d34e58e1043b,zhong.gripe,available,5.2,5.2,medium,low,5,cloudflare,,,30/09/2026 13:57
 4f15e0ab-4c64-4625-ba8c-dad1db617cba,balker.gripe,available,6.98,8.98,medium,low,6,namecheap,,,03/09/2026 18:54
 6d531933-b584-4acf-a7fe-34131b965db8,kingsbury.gripe,available,5.2,5.2,high,low,9,cloudflare,,,29/09/2026 22:52
 69bc909b-19b8-4b57-ab1f-175d4dcf2fb3,juliet.gripe,available,5.2,5.2,high,low,6,cloudflare,,,28/09/2026 03:46
 2ed8a37f-954d-4dc9-ba3a-e1f9eb9ff15a,composer.gripe,available,6.99,6.99,high,low,8,namesilo,,,24/09/2026 16:53
 cc228fae-447c-42a7-a930-f5f5e918757c,expandable.gripe,available,6.98,8.98,high,low,10,namecheap,,,17/08/2026 17:51
-e4d70cdb-67b8-49bf-bdcc-a2e572c22b60,eliminate.gripe,available,6.99,6.99,high,low,9,namesilo,,,
+e4d70cdb-67b8-49bf-bdcc-a2e572c22b60,eliminate.gripe,available,5.38,5.38,high,low,9,spaceship,,,30/09/2026 15:03
 c6781686-d2fb-434a-8d06-247af2e3e30c,quarterly.gripe,available,6.98,8.98,high,low,9,namecheap,,,09/09/2026 07:37
 f26b34fd-c6b6-4c4a-aca7-0a96f8577749,mustafa.gripe,available,6.99,6.99,high,low,7,namesilo,,,28/09/2026 11:56
+0e8ed1aa-f3de-40df-ab34-0a4ff99a2163,ora.gripe,available,5.2,5.2,high,medium,3,cloudflare,,,30/09/2026 19:25
 802f9d3d-22be-4453-a90e-7a52a8ee0040,glimmery.gripe,available,6.98,8.98,medium,low,8,namecheap,,,20/08/2026 14:28
-2e75c7b3-8761-4e7f-bb86-9ed3299e5184,xxxi.gripe,available,6.98,8.98,high,low,4,namecheap,,,
+2e75c7b3-8761-4e7f-bb86-9ed3299e5184,xxxi.gripe,available,6.98,8.98,medium,low,4,namecheap,,,
 84d76252-fba9-4ab6-ac3e-0c02aedea934,surf.gripe,premium,78.54,78.54,high,low,4,namesilo,,,24/09/2026 08:25
 0f26a040-3bb0-48cf-9d83-9da17b5f0d1d,awe.gripe,available,5.38,5.38,high,low,3,spaceship,,,28/09/2026 23:47
 338e1d95-843c-4ab0-82b4-cc64f3f54347,traders.gripe,available,8.98,,high,low,7,namecheap,,,
@@ -162,8 +176,9 @@ bb5bc623-4e81-4154-ba84-9cb400fe02ec,fearsome.gripe,available,6.98,8.98,medium,l
 3e17bbdb-2679-47d5-a7b1-747ea6d8079f,ascent.gripe,available,6.99,6.99,high,low,6,namesilo,,,22/09/2026 09:19
 e7b454a7-9fa0-40b6-80ce-a894e9e7d186,biophysics.gripe,available,6.98,8.98,high,low,10,namecheap,,,23/09/2026 18:50
 2e64b514-48cf-4616-8a53-809942e9638c,again.gripe,available,6.99,6.99,medium,low,5,namesilo,,,28/09/2026 11:49
-5334e666-f70a-43cd-87fa-9b3ccb9dac23,christly.gripe,available,6.98,8.98,high,low,8,namecheap,,,12/08/2026 07:21
+5334e666-f70a-43cd-87fa-9b3ccb9dac23,christly.gripe,available,6.98,8.98,medium,low,8,namecheap,,,12/08/2026 07:21
 eec4271f-a998-4000-bfd9-d7cd5a8407d9,deciders.gripe,available,6.98,8.98,medium,low,8,namecheap,,,20/09/2026 23:38
+6afd89f3-f460-4a48-a650-9e541d624bec,nasir.gripe,available,5.57,5.57,medium,low,5,dynadot,,,30/09/2026 13:54
 15e23f1f-d648-4956-ab8e-eb356896c999,arboreous.gripe,available,6.98,8.98,medium,low,9,namecheap,,,06/08/2026 12:59
 be74db80-6485-41a5-8887-77a6291ed404,interfaith.gripe,available,6.98,8.98,high,low,10,namecheap,,,22/08/2026 08:02
 31a9d926-5af6-4e68-8608-90472b3bbb51,literate.gripe,available,6.98,8.98,high,low,8,namecheap,,,24/08/2026 07:26
@@ -178,21 +193,24 @@ c27d6a04-876d-4257-991b-4df7f121ecc3,relocation.gripe,available,5.38,5.38,high,l
 17ecba7a-97fc-4515-b559-2f3e30058b1a,shackled.gripe,available,6.98,8.98,medium,low,8,namecheap,,,18/08/2026 02:56
 c8c115cf-f3be-428b-9941-4cfcf48a7a76,transpolar.gripe,available,6.98,8.98,medium,low,10,namecheap,,,11/09/2026 18:57
 32cacc5b-8a1a-4369-80e4-ea4b4671265e,fleetwood.gripe,available,5.66,5.66,medium,low,9,porkbun,,,28/09/2026 16:46
+dd47e8ac-9c12-4cba-aacd-1311e6413d9f,thu.gripe,available,5.2,5.2,medium,low,3,cloudflare,,,30/09/2026 19:35
 27e188ef-96bd-4649-aeff-d68cda31db92,burnt.gripe,available,6.99,6.99,high,low,5,namesilo,,,23/09/2026 11:41
 cd817322-4fb3-4005-a1fa-103178bcb0f0,carrel.gripe,available,6.99,6.99,medium,low,6,namesilo,,,18/09/2026 06:05
 3899f7bf-add4-408d-a119-9823f6c414b5,abeyance.gripe,available,6.99,6.99,medium,low,8,namesilo,,,16/09/2026 15:20
+2ba4ac7f-e184-47b2-8df0-45025602ab99,conscientious.gripe,available,5.2,5.2,high,low,13,cloudflare,,,30/09/2026 19:32
 e50cc638-433c-49ca-b0b1-dd4c2969322d,mendelian.gripe,available,6.98,8.98,medium,low,9,namecheap,,,24/08/2026 20:06
 f344a154-ef12-43b7-b33a-77d4749d75f5,borges.gripe,available,5.66,5.66,high,low,6,porkbun,,,29/09/2026 11:45
 1aafe28e-4fbf-4155-8363-e66d56cfdbeb,thermionic.gripe,available,6.98,8.98,medium,low,10,namecheap,,,11/09/2026 12:56
 e2f85d56-403c-4f70-96f1-d6e627043271,infertile.gripe,available,6.98,8.98,medium,low,9,namecheap,,,22/08/2026 04:24
 9d373911-c3d3-45fa-93cf-47b15ff816a0,foreshadow.gripe,available,6.99,6.99,high,low,10,namesilo,,,21/09/2026 03:32
 e0b568c9-9882-449e-8983-5e09b652ecfd,atavism.gripe,available,39.49,43.99,medium,low,7,name.com,,,20/09/2026 19:45
+f8b83f4b-412a-4b74-868b-8231615af231,installment.gripe,available,6.99,6.99,high,low,11,namesilo,,,30/09/2026 19:52
 b7b18ffc-f616-456f-86f0-a6ec148440e6,lubbock.gripe,available,6.99,6.99,medium,low,7,namesilo,,,28/09/2026 10:18
-26508059-01fe-423c-afcf-2230ba9056ae,paneled.gripe,available,6.98,8.98,high,low,7,namecheap,,,05/09/2026 00:50
+26508059-01fe-423c-afcf-2230ba9056ae,paneled.gripe,available,6.98,8.98,medium,low,7,namecheap,,,05/09/2026 00:50
 897fe06a-7d63-4780-b601-c364456ba370,tolerance.gripe,available,5.38,5.38,high,low,9,spaceship,,,28/09/2026 20:10
 af639260-a5bd-4b85-bd94-5e925301e1ff,terri.gripe,available,5.2,5.2,medium,low,5,cloudflare,,,29/09/2026 09:23
 ee9decac-f11d-4999-b369-3be6576a52f0,whipping.gripe,available,6.98,8.98,medium,low,8,namecheap,,,22/08/2026 20:12
-9346d7e2-be32-424c-be75-c12268601ce5,curvaceous.gripe,available,6.98,8.98,high,low,10,namecheap,,,10/08/2026 20:30
+9346d7e2-be32-424c-be75-c12268601ce5,curvaceous.gripe,available,6.98,8.98,medium,low,10,namecheap,,,10/08/2026 20:30
 e7945433-7469-4e82-be1c-d9b3c51d351c,whisper.gripe,available,6.98,8.98,high,low,7,namecheap,,,13/09/2026 11:38
 a5b1834a-50d8-4095-9edc-303cbb9999a3,willing.gripe,available,6.98,8.98,high,low,7,namecheap,,,12/09/2026 05:42
 ea497aee-2cea-4706-9d71-1dac4c3de388,explicable.gripe,available,6.98,8.98,medium,low,10,namecheap,,,17/08/2026 18:23
@@ -201,11 +219,12 @@ c65d4e04-529c-40fd-bd87-c7a9c0b6ba69,luxe.gripe,available,39.49,43.99,high,low,4
 b0533a67-9595-4492-9b09-ac850ede08af,hurts.gripe,available,6.99,6.99,medium,low,5,namesilo,,,27/09/2026 23:53
 c8bedd1a-dac7-419f-9a4f-fdb952f16a8b,topped.gripe,available,6.98,8.98,medium,low,6,namecheap,,,11/09/2026 17:53
 9b4c6d32-53d0-436c-8e15-551527c5f76e,grizzled.gripe,available,6.98,8.98,medium,low,8,namecheap,,,20/08/2026 20:11
+ed746596-c559-4eaa-a63c-8cb6bc3f4301,commute.gripe,available,5.38,5.38,high,low,7,spaceship,,,30/09/2026 09:14
 cd7030d6-64fe-4bc5-94e8-5d40f88aa1cc,prophet.gripe,available,6.98,8.98,high,low,7,namecheap,,,28/09/2026 02:52
-40eb4249-1a61-41a9-b3c8-5dbb6c22e92d,restrain.gripe,available,6.99,6.99,high,low,8,namesilo,,,
+40eb4249-1a61-41a9-b3c8-5dbb6c22e92d,restrain.gripe,available,6.99,6.99,medium,low,8,namesilo,,,30/09/2026 03:00
 be98f6d7-7867-4d85-8aaa-598f3b938efa,turner.gripe,premium,34.36,34.36,high,low,6,spaceship,,,29/09/2026 00:58
 c27c741b-9d70-43b0-ac1b-7f4c59ebd935,milk.gripe,available,5.2,5.2,high,low,4,cloudflare,,,29/09/2026 08:29
-1138411f-42ab-44a9-a3b9-4742a4878ea7,oversee.gripe,available,6.99,6.99,high,low,7,namesilo,,,
+1138411f-42ab-44a9-a3b9-4742a4878ea7,oversee.gripe,available,5.2,5.2,high,low,7,cloudflare,,,30/09/2026 21:16
 6a3f4db5-51f5-482f-9315-f69029b24714,compare.gripe,premium,242,242,high,low,7,namesilo,,,24/09/2026 16:43
 61357c7e-380c-41c5-a169-8af84a1a8980,dependable.gripe,available,6.98,8.98,high,low,10,namecheap,,,14/08/2026 02:04
 5edf439a-4fa9-4e34-8105-045a8fbd4fc9,karate.gripe,available,5.66,5.66,high,low,6,porkbun,,,28/09/2026 19:36
@@ -220,6 +239,7 @@ de3f9518-f8cd-4a64-9821-d28362988f45,clxxv.gripe,available,6.98,8.98,medium,low,
 14c7a44f-8b07-4f53-af05-38ea8d7543f6,beds.gripe,available,5.38,5.38,high,low,4,spaceship,,,27/09/2026 18:14
 a24b1512-e688-430f-8bb1-bf22ccc2af66,crimson.gripe,available,39.49,43.99,high,low,7,name.com,,,22/09/2026 22:28
 f9d4af96-42e1-4f8d-93e7-45909d4a3176,ineffable.gripe,available,6.98,8.98,high,low,9,namecheap,,,22/08/2026 02:45
+10ec65be-fd67-4219-9b65-a2d29d685344,coupling.gripe,available,5.2,5.2,high,low,8,cloudflare,,,30/09/2026 16:49
 060ffada-0138-4d27-8b80-9ba27ad0b412,landon.gripe,available,5.2,5.2,medium,low,6,cloudflare,,,28/09/2026 22:03
 e5ef47de-f237-41a8-988f-516380e43ad5,specifics.gripe,available,6.99,6.99,medium,low,9,namesilo,,,29/09/2026 17:04
 acba80a0-f692-41d2-88f4-3df2110df3be,cats.gripe,available,6.99,6.99,high,low,4,namesilo,,,17/09/2026 10:29
@@ -228,13 +248,16 @@ acba80a0-f692-41d2-88f4-3df2110df3be,cats.gripe,available,6.99,6.99,high,low,4,n
 227ded99-4a6a-4ebf-8273-bba1a18e6ada,appleton.gripe,available,6.98,8.98,medium,low,8,namecheap,,,19/09/2026 21:41
 bb5e1839-1052-40ba-8bd4-df61f27e5b25,washes.gripe,available,6.98,8.98,medium,low,6,namecheap,,,20/09/2026 04:54
 dfe5bb9a-dbce-4e38-b28e-26918f688e41,promises.gripe,available,6.99,6.99,medium,low,8,namesilo,,,27/09/2026 03:01
-2358ec27-9f3b-4c58-af3e-2e5caf0f7775,turnabout.gripe,available,6.99,6.99,high,low,10,namesilo,,,
+f994f9b3-a6f9-4022-aea2-03ebd90df732,tolerated.gripe,available,5.38,5.38,high,low,9,spaceship,,,30/09/2026 12:15
+06494b75-06ac-421b-9e80-771867a88669,binds.gripe,available,5.38,5.38,low,low,5,spaceship,,,01/10/2026 00:28
+2358ec27-9f3b-4c58-af3e-2e5caf0f7775,turnabout.gripe,available,6.99,6.99,medium,low,10,namesilo,,,
 df41fe03-0294-4754-b33a-dc0357c0c81f,bridal.gripe,available,6.98,8.98,high,low,6,namecheap,,,11/08/2026 03:53
 7a2038e8-78bd-4f30-96d2-c1cc563f3404,aca.gripe,available,5.57,5.57,high,low,3,dynadot,,,29/09/2026 09:04
 51dd8eea-1ceb-4431-a804-280ce513333e,exportable.gripe,available,6.98,8.98,high,low,10,namecheap,,,17/08/2026 18:35
 c77bbb25-20d1-4b39-bf2d-54b181bb1510,circadian.gripe,available,6.98,8.98,high,low,9,namecheap,,,12/08/2026 08:17
 4ba3c4bb-c5cb-44db-850d-a196d9301deb,metz.gripe,available,6.99,6.99,high,low,4,namesilo,,,27/09/2026 07:39
 9a42620b-a199-4084-b8a2-81c6bb8b2039,miscreant.gripe,available,6.98,8.98,medium,low,9,namecheap,,,09/09/2026 14:38
+1d519f9b-2b48-4d32-aff3-db91874f85cd,enabled.gripe,available,5.2,5.2,high,low,7,cloudflare,,,30/09/2026 19:35
 990bd4c9-20a7-4700-9520-0070d8ed4141,jewish.gripe,available,6.99,6.99,high,low,6,namesilo,,,25/09/2026 11:48
 b807e578-525d-4e03-ace5-8dbc411f4a8d,watered.gripe,available,6.98,8.98,medium,low,7,namecheap,,,25/08/2026 03:28
 6e8b45aa-995e-4589-98a7-7df775938382,cupric.gripe,available,6.98,8.98,medium,low,6,namecheap,,,13/08/2026 10:49
@@ -248,7 +271,7 @@ a3a61235-eab8-4336-a1e3-01a8e1dda6e9,salacious.gripe,available,6.98,8.98,medium,
 3a5b8c39-3f2c-470a-9d88-461d3ec1cefc,unused.gripe,available,6.99,6.99,medium,low,6,namesilo,,,28/09/2026 09:50
 785043bc-44c5-4f3b-a2ff-3ff4d7f6c81e,graham.gripe,premium,78.54,78.54,high,low,6,namesilo,,,23/09/2026 16:49
 cca0f9cb-b3b3-44be-b2ce-44402f314c76,highness.gripe,available,6.98,8.98,high,low,8,namecheap,,,28/09/2026 14:27
-fa50e926-46a3-4faa-a0ec-0cbfd876af18,supervise.gripe,available,8.98,,high,low,9,namecheap,,,
+fa50e926-46a3-4faa-a0ec-0cbfd876af18,supervise.gripe,available,6.99,6.99,high,low,9,namesilo,,,30/09/2026 05:05
 7ad32ecb-76d0-48ed-94fb-fc42533ebf71,scads.gripe,available,6.98,8.98,high,low,5,namecheap,,,14/09/2026 23:36
 5c3b269e-72c8-4935-8a62-3e4453e0119d,myra.gripe,available,5.57,5.57,medium,low,4,dynadot,,,28/09/2026 22:02
 89985854-ec3c-4d46-bbe6-32391721d110,bared.gripe,available,6.99,6.99,medium,low,5,namesilo,,,22/09/2026 17:24
@@ -256,11 +279,13 @@ fa50e926-46a3-4faa-a0ec-0cbfd876af18,supervise.gripe,available,8.98,,high,low,9,
 741a65cf-8392-4a77-a2d4-26aff025950b,himalayan.gripe,available,6.98,8.98,high,low,9,namecheap,,,21/08/2026 09:25
 af67f234-fb9d-43fa-80a9-44f296cecbde,extraneous.gripe,available,6.98,8.98,medium,low,10,namecheap,,,17/08/2026 19:20
 0cde3d27-e649-489b-8b8b-ddef75bff194,defaults.gripe,available,6.99,6.99,low,low,8,namesilo,,,21/09/2026 07:23
-7e5de54c-e50b-44a1-b4fa-01fdb42bbcdc,report.gripe,available,6.99,6.99,high,low,6,namesilo,,,
+7e5de54c-e50b-44a1-b4fa-01fdb42bbcdc,report.gripe,available,5.38,5.38,high,low,6,spaceship,,,30/09/2026 05:37
 5e9bdfa5-e04f-42cf-b14e-72b521ac1b22,aught.gripe,available,6.98,8.98,medium,low,5,namecheap,,,03/09/2026 22:36
 8ccb4bef-b80a-4e55-aade-9758db0e4d8b,albula.gripe,available,6.99,6.99,medium,low,6,namesilo,,,18/09/2026 03:24
 8b375db7-8f43-4791-b87d-2dc7720c00ea,akka.gripe,available,6.99,6.99,high,low,4,namesilo,,,16/09/2026 22:23
 92247b21-43e4-49c7-8305-831509f9526b,poetic.gripe,available,6.98,8.98,high,low,6,namecheap,,,08/09/2026 22:33
+bbfa07cd-c1a6-42e5-9c27-1e7b31eace78,certification.gripe,available,6.99,6.99,high,low,13,namesilo,,,30/09/2026 14:36
+7e764bf2-8806-4367-88a9-1a2daf27b5d9,pena.gripe,available,6.99,6.99,medium,low,4,namesilo,,,30/09/2026 13:00
 2487fc89-b63b-43d9-9bf7-04deaf3d55a9,lag.gripe,premium,78.54,78.54,high,low,3,namesilo,,,25/09/2026 10:16
 35bb9225-78eb-44ef-a21f-459550133c9f,wilcox.gripe,available,6.99,6.99,medium,low,6,namesilo,,,27/09/2026 01:45
 aba3e07b-d17d-4f49-af94-bdaacf6f7e0c,feat.gripe,available,9.99,9.99,high,low,4,godaddy,,,30/09/2026 01:35
@@ -270,7 +295,7 @@ ac3229d5-e883-4048-bc1e-97acb1e6b926,jupiter.gripe,available,5.57,5.57,high,low,
 77bd3507-f59b-4b0d-b564-3530c40e4c1e,stupefy.gripe,available,6.98,8.98,medium,low,7,namecheap,,,21/09/2026 17:33
 39174bdd-5511-460e-80c5-83bcaf9a28a0,arterial.gripe,available,6.98,8.98,high,low,8,namecheap,,,06/08/2026 22:29
 3fcdfba9-7c8a-44ad-9686-62dc93559210,lgbtq.gripe,available,6.99,6.99,high,low,5,namesilo,,,
-175d8ea0-2727-4755-98d1-67bd6bbefd89,actively.gripe,available,5.57,5.57,high,low,8,dynadot,,,28/09/2026 11:44
+175d8ea0-2727-4755-98d1-67bd6bbefd89,actively.gripe,available,5.57,5.57,medium,low,8,dynadot,,,28/09/2026 11:44
 a23b10b6-ef88-4f73-9b96-048559f7ba02,left.gripe,available,6.99,6.99,high,low,4,namesilo,,,25/09/2026 13:25
 9f86e2bd-fdd1-4917-aae6-ecff071b7ce2,blackheart.gripe,available,6.98,8.98,medium,low,10,namecheap,,,24/09/2026 02:49
 d6fd4537-7d94-4594-a7a6-2d6590e2edc1,activator.gripe,available,6.99,6.99,high,low,9,namesilo,,,17/09/2026 05:10
@@ -279,17 +304,17 @@ c11b826d-6647-4e4f-8fb4-cee6bc9f5084,acetal.gripe,available,39.49,43.99,medium,l
 8b446e68-b866-425a-84f3-a1c4835988f5,biscuit.gripe,available,6.98,8.98,high,low,7,namecheap,,,23/09/2026 21:32
 873c3580-ca32-4d0c-ab3f-ff54ac340443,except.gripe,available,6.99,6.99,high,low,6,namesilo,,,29/09/2026 13:57
 d4ecc62b-449b-45d8-9591-f62c1973a039,anyhow.gripe,available,6.98,8.98,high,low,6,namecheap,,,13/09/2026 20:11
-e373b4ef-e790-4045-96ac-44a5f9173a59,meddle.gripe,available,6.99,6.99,high,low,6,namesilo,,,
+e373b4ef-e790-4045-96ac-44a5f9173a59,meddle.gripe,available,6.98,8.98,medium,low,6,namecheap,,,30/09/2026 20:30
 bcd789ba-acb9-46eb-bf7f-169ce7f99465,redmond.gripe,available,5.38,5.38,medium,low,7,spaceship,,,28/09/2026 11:41
 75b263df-878f-4aae-a490-a2aa7cae28e4,backbiter.gripe,available,6.99,6.99,medium,low,9,namesilo,,,21/09/2026 15:08
-2e0eba97-75e5-48d1-8d32-476201a130de,gatherer.gripe,available,6.99,6.99,high,low,8,namesilo,,,16/09/2026 23:20
+2e0eba97-75e5-48d1-8d32-476201a130de,gatherer.gripe,available,6.99,6.99,medium,low,8,namesilo,,,16/09/2026 23:20
 c7f390de-3adf-4f7c-9200-60b9c8fdf625,natty.gripe,available,39.49,43.99,medium,low,5,name.com,,,13/08/2026 17:29
 71489d62-8e22-480a-b67c-4f621564b438,rewarded.gripe,available,6.99,6.99,medium,low,8,namesilo,,,28/09/2026 23:21
 510feccb-69eb-402a-9c6e-beab70ca8c28,khakis.gripe,available,5.38,5.38,high,low,6,spaceship,,,30/09/2026 01:17
 e6ddc370-87b5-4a27-8062-eaa44f573925,catechetic.gripe,available,6.98,8.98,medium,low,10,namecheap,,,11/08/2026 21:25
 a81fb62c-c1ca-44c8-bd20-3499333ebc19,tenacious.gripe,available,6.99,6.99,high,low,9,namesilo,,,19/09/2026 16:19
 34ee8a7d-1353-41ea-978f-e22e12f7a864,value.gripe,available,6.99,6.99,high,low,5,namesilo,,,27/09/2026 06:35
-dad556d7-e42e-46fd-acc9-c1c4e01215eb,remember.gripe,available,6.99,6.99,high,low,8,namesilo,,,
+dad556d7-e42e-46fd-acc9-c1c4e01215eb,remember.gripe,available,5.38,5.38,high,low,8,spaceship,,,30/09/2026 09:10
 7ae284d4-980a-46b7-9239-2ceea2d2c7f2,observations.gripe,available,6.98,8.98,high,low,12,namecheap,,,17/09/2026 08:04
 76e3ba32-a794-4966-b96d-ba2dec403aea,mcdonald.gripe,available,6.99,6.99,high,low,8,namesilo,,,
 1b8d0a8e-80e9-40ea-90ef-f1965ed7ff1c,jaggy.gripe,available,6.98,8.98,medium,low,5,namecheap,,,17/08/2026 12:34
@@ -310,12 +335,13 @@ df43e5d5-4b2e-4750-ac70-0cbbf5728da3,heywood.gripe,available,5.38,5.38,medium,lo
 bc699818-4bc5-4a9b-8ca0-ede9027b7a08,sperry.gripe,available,5.2,5.2,medium,low,6,cloudflare,,,29/09/2026 00:47
 2441fbbc-df1e-4ed5-b906-11230fcb7db5,mangy.gripe,available,6.98,8.98,medium,low,5,namecheap,,,24/08/2026 14:50
 be4bd1cf-5b7c-47ff-ad86-cb8098f7928c,zion.gripe,available,5.38,5.38,high,low,4,spaceship,,,29/09/2026 19:24
-45fc65c6-3ce3-4cd2-bf0a-dc2d62cd0e8f,pencil.gripe,available,6.99,6.99,high,low,6,namesilo,,,
+45fc65c6-3ce3-4cd2-bf0a-dc2d62cd0e8f,pencil.gripe,available,5.2,5.2,high,low,6,cloudflare,,,30/09/2026 06:34
 696141f4-a70d-4ac4-bd77-d3a73ac42641,arrays.gripe,available,6.99,6.99,medium,low,6,namesilo,,,20/09/2026 09:17
+564bd64f-d1da-4902-bbda-294f6b2f4a07,aristocracy.gripe,available,5.2,5.2,high,low,11,cloudflare,,,30/09/2026 14:25
 705991c5-5f6b-4c9f-8570-ce6173b618c2,heathen.gripe,available,6.98,8.98,high,low,7,namecheap,,,18/08/2026 21:55
+fa5686c7-82d9-4284-bfc9-8fc09a9e02c3,chum.gripe,available,5.66,5.66,high,low,4,porkbun,,,01/10/2026 01:13
 48219bb8-db94-4bfd-9be9-160838802788,annalist.gripe,available,6.99,6.99,medium,low,8,namesilo,,,19/09/2026 10:03
-3e376962-5158-45d8-bf4a-8a899f77e0e5,rider.gripe,available,6.99,6.99,high,low,5,namesilo,,,
-4c91111e-da30-4081-88ea-7d96ee71c678,nike.gripe,available,,,high,high,4,,,,
+3e376962-5158-45d8-bf4a-8a899f77e0e5,rider.gripe,available,5.38,5.38,high,low,5,spaceship,,,30/09/2026 06:27
 a7ad814e-5c01-4ba8-90ef-32bc10a88d66,skeletal.gripe,available,6.98,8.98,high,low,8,namecheap,,,10/08/2026 19:00
 06f1ee49-98a7-4c92-8d79-5ad3c25d3f40,feather.gripe,available,5.66,5.66,high,low,7,porkbun,,,29/09/2026 19:02
 bc6c6f4d-7250-4c98-b4f2-57b3d64a314e,dangers.gripe,available,6.99,6.99,medium,low,7,namesilo,,,18/09/2026 04:42
@@ -324,22 +350,23 @@ e2f1ec1a-fcd8-4995-84d5-7496f64050e8,feasible.gripe,available,6.98,8.98,high,low
 f5ace3cb-4bc9-4429-843f-f67739528665,rapt.gripe,available,6.98,8.98,high,low,4,namecheap,,,14/08/2026 23:50
 9e9ea916-8585-4fce-bc2d-55f3505b43ff,nonverbal.gripe,available,6.98,8.98,medium,low,9,namecheap,,,03/09/2026 21:00
 58916ad1-8ed0-48d0-ad11-c437ccb35eca,muscular.gripe,available,6.98,8.98,high,low,8,namecheap,,,11/08/2026 02:50
-c273baa9-6e75-40d9-8435-051e07a822d4,pitching.gripe,available,6.99,6.99,high,low,8,namesilo,,,
+c273baa9-6e75-40d9-8435-051e07a822d4,pitching.gripe,available,6.99,6.99,high,low,8,namesilo,,,30/09/2026 06:51
 982962aa-431a-4b46-b379-f81948c56ff6,satellite.gripe,available,6.98,8.98,high,low,9,namecheap,,,09/09/2026 21:34
 ac7bb4f6-1893-4b90-a32c-a8752dc5671d,bailment.gripe,available,6.98,8.98,medium,low,8,namecheap,,,21/09/2026 19:09
 c81c4cab-9111-45b2-9788-2148483de360,shout.gripe,available,6.99,6.99,high,low,5,namesilo,,,29/09/2026 12:22
 b80cc3fa-9df0-4807-9b9d-71abc4484146,kettering.gripe,available,6.98,8.98,medium,low,9,namecheap,,,29/09/2026 06:20
 a273a5de-d385-4925-bf12-399a5f1f77da,equitably.gripe,available,6.98,8.98,medium,low,9,namecheap,,,14/09/2026 15:54
 193763c0-3bd0-420f-b9f5-c5261b1a91f2,sunup.gripe,available,6.98,8.98,high,low,5,namecheap,,,11/09/2026 02:09
+b38940fb-b99d-4b35-a352-3c5b188e0b20,maia.gripe,available,5.38,5.38,high,low,4,spaceship,,,30/09/2026 17:27
 2e2f13cd-7236-4d28-b65f-dc9fcbea4b94,insects.gripe,available,6.99,6.99,medium,low,7,namesilo,,,28/09/2026 22:56
 2bb5a41d-7550-4281-85d3-a04f8ba61fb8,luftwaffe.gripe,available,6.98,8.98,medium,low,9,namecheap,,,28/09/2026 09:53
 7c6a0ce0-1ed1-48cc-9c6c-8c87cf398fc9,rambling.gripe,available,6.98,8.98,high,low,8,namecheap,,,17/08/2026 16:41
 ea810ba5-9151-4531-bd50-41c095e33f4c,giving.gripe,available,6.98,8.98,high,low,6,namecheap,,,09/08/2026 20:55
 5a6c3770-d521-439f-8d23-616470336e7a,felicia.gripe,available,5.2,5.2,high,low,7,cloudflare,,,29/09/2026 18:52
 db9755c0-c607-4e30-9fda-d9317dc55d6b,popularity.gripe,available,5.38,5.38,high,low,10,spaceship,,,28/09/2026 10:44
-eafea7c2-3bc2-407b-a7b5-88ab7087f859,calciferol.gripe,available,39.49,43.99,high,low,10,name.com,,,13/08/2026 15:07
+eafea7c2-3bc2-407b-a7b5-88ab7087f859,calciferol.gripe,available,39.49,43.99,medium,low,10,name.com,,,13/08/2026 15:07
 6f38c796-7bf1-43b3-84a6-df328c754ec1,palatable.gripe,available,6.98,8.98,high,low,9,namecheap,,,04/09/2026 23:15
-74df5b45-4a7d-4457-b311-896a86df7bae,webs.gripe,available,6.99,6.99,high,low,4,namesilo,,,20/09/2026 10:33
+74df5b45-4a7d-4457-b311-896a86df7bae,webs.gripe,available,6.99,6.99,medium,low,4,namesilo,,,20/09/2026 10:33
 daab1902-4f61-4990-a7fe-0f08b8558a51,estate.gripe,premium,38.94,38.94,high,low,6,namesilo,,,17/09/2026 02:55
 c7373b22-6e03-4087-ae74-36956908bdbe,foothold.gripe,available,6.98,8.98,high,low,8,namecheap,,,24/09/2026 10:16
 e3cb99d4-5de0-44aa-b88b-ff57c539ccc8,kwh.gripe,available,6.99,6.99,medium,low,3,namesilo,,,28/09/2026 07:34
@@ -350,33 +377,36 @@ d43493e9-1fd2-47f5-aebb-8addee5fff91,squat.gripe,available,6.99,6.99,high,low,5,
 a6c20166-1c0f-4c44-ac17-c81c8974ab38,encyclical.gripe,available,6.98,8.98,medium,low,10,namecheap,,,17/08/2026 00:42
 6e344d84-47c3-4223-8f55-6c84d151f85b,javan.gripe,available,6.98,8.98,high,low,5,namecheap,,,22/08/2026 12:30
 0a70550d-9ad3-4e03-9c2c-35f6b029d822,lucrative.gripe,available,6.99,6.99,high,low,9,namesilo,,,25/09/2026 15:34
+8317d95f-4bc0-4e4d-9425-a0ef3d631120,republicans.gripe,premium,78.54,78.54,medium,low,11,namesilo,,,30/09/2026 06:30
 14194021-173b-48c9-ac18-b77cdd14d63d,surly.gripe,available,6.98,8.98,medium,low,5,namecheap,,,11/09/2026 04:06
 ccb3cf74-7179-4cc5-b78e-a80dc30c4793,sargent.gripe,available,6.99,6.99,high,low,7,namesilo,,,27/09/2026 04:36
 7bf77a11-4c47-4835-a1a3-2a5d69515501,diversion.gripe,available,6.99,6.99,high,low,9,namesilo,,,24/09/2026 23:18
 e85ec7a6-5c0b-451a-b194-f42d7075305a,handles.gripe,available,6.99,6.99,medium,low,7,namesilo,,,28/09/2026 13:13
-a63f6c45-d659-45e3-90e2-36e29578eeac,purposely.gripe,available,6.98,8.98,high,low,9,namecheap,,,13/09/2026 17:36
-86fd75c8-8e79-42da-a809-aebfbcf42793,quest.gripe,available,6.99,6.99,high,medium,5,namesilo,,,
+a63f6c45-d659-45e3-90e2-36e29578eeac,purposely.gripe,available,6.98,8.98,medium,low,9,namecheap,,,13/09/2026 17:36
+86fd75c8-8e79-42da-a809-aebfbcf42793,quest.gripe,available,6.99,6.99,high,medium,5,namesilo,,,30/09/2026 08:55
 aa50e6b0-b760-483a-a766-1f41445ed500,flip.gripe,available,6.98,8.98,high,medium,4,namecheap,,,24/09/2026 20:06
 a121b1eb-be59-4d74-a742-4b5e20a1aa72,brinjal.gripe,available,6.99,6.99,high,low,7,namesilo,,,21/09/2026 02:34
 42d4c403-521b-4218-b74b-eebcbec76e69,angiogram.gripe,available,39.49,43.99,medium,low,9,name.com,,,19/09/2026 06:13
 de8c1dcf-3d0b-40b5-8fd8-e27e2917b7ee,scar.gripe,available,6.99,6.99,high,low,4,namesilo,,,24/09/2026 15:00
 d7971cdf-0c39-49d9-98bf-238ea0bb9473,phenomena.gripe,available,6.99,6.99,medium,low,9,namesilo,,,29/09/2026 22:50
-9a0e142f-c3ac-4040-93b1-8bf44dd6fc4a,waterford.gripe,available,5.38,5.38,high,low,9,spaceship,,,27/09/2026 16:17
-5d98238a-7eaa-4b26-813a-1492c5436f27,communal.gripe,available,6.98,8.98,high,low,8,namecheap,,,23/09/2026 16:10
+9a0e142f-c3ac-4040-93b1-8bf44dd6fc4a,waterford.gripe,available,5.38,5.38,medium,low,9,spaceship,,,27/09/2026 16:17
+5d98238a-7eaa-4b26-813a-1492c5436f27,communal.gripe,available,6.99,6.99,high,low,8,namesilo,,,30/09/2026 16:12
 07f250ca-b0a7-4bb1-aeea-eddf796c29cd,ahmed.gripe,available,6.98,8.98,high,low,5,namecheap,,,25/09/2026 14:32
 6066730c-bfa5-493c-a64d-f26e8c93bdf7,tastes.gripe,available,6.98,8.98,medium,low,6,namecheap,,,19/09/2026 00:38
 969faddb-2b32-41b2-aacf-85bf8f22cac8,awning.gripe,available,6.98,8.98,high,low,6,namecheap,,,21/09/2026 10:12
 6c2a4e72-83e4-47d1-a908-a03a64f3858b,philadelphia.gripe,available,6.99,6.99,high,low,12,namesilo,,,
+e56b15be-a9df-4883-991e-c6cf3dc09a4a,religions.gripe,available,5.38,5.38,medium,low,9,spaceship,,,30/09/2026 15:01
 e7b069b1-c95d-413f-b9d3-9f05f9862bfc,sandfish.gripe,available,6.99,6.99,medium,low,8,namesilo,,,22/09/2026 19:42
 19bccd23-c1ed-4e71-bad8-cce941cdee15,fifteen.gripe,available,6.99,6.99,high,low,7,namesilo,,,21/09/2026 11:44
 63ea3e0b-60c1-43f6-948a-940073259f51,promenade.gripe,available,6.99,6.99,high,low,9,namesilo,,,18/09/2026 16:56
 c70785b5-213d-409f-97d3-e53a6a100e07,angora.gripe,available,6.98,8.98,high,low,6,namecheap,,,19/09/2026 07:06
+83f18552-11df-48ff-ac5b-e4230723d351,elm.gripe,available,6.98,8.98,high,low,3,namecheap,,,30/09/2026 09:31
 9441c7b8-f89e-45ff-a7f5-21dd177922d6,corn.gripe,available,5.38,5.38,high,low,4,spaceship,,,29/09/2026 09:54
 12db383e-795b-42c2-b867-b75698b81b58,dishcloth.gripe,available,6.98,8.98,medium,low,9,namecheap,,,24/09/2026 22:40
 131b0a26-c3a3-4a7c-8c99-61a4d6581e1b,lxx.gripe,available,6.98,8.98,medium,low,3,namecheap,,,
 ff8ce500-1341-4568-a010-7e7d4343667d,gower.gripe,available,6.98,8.98,medium,low,5,namecheap,,,29/09/2026 04:18
 b25dcd8e-915a-4589-a407-6e3b686fedab,reflect.gripe,available,6.99,6.99,high,low,7,namesilo,,,28/09/2026 10:29
-cfbe000f-15d9-4201-95c5-c82968b7662e,hairless.gripe,available,6.98,8.98,high,low,8,namecheap,,,20/08/2026 22:13
+cfbe000f-15d9-4201-95c5-c82968b7662e,hairless.gripe,available,6.98,8.98,medium,low,8,namecheap,,,20/08/2026 22:13
 d9d3f078-9b4e-43a7-918d-02b83a2ebd72,apocrypha.gripe,available,6.98,8.98,medium,low,9,namecheap,,,19/09/2026 18:13
 66d19a17-5e00-47a4-8a4b-61b64671e8f9,cyclosis.gripe,available,6.98,8.98,medium,low,8,namecheap,,,10/09/2026 22:24
 4bf5da56-b40c-4de2-b97d-2a52a12c7732,insulation.gripe,available,5.2,5.2,high,low,10,cloudflare,,,30/09/2026 01:59
@@ -388,6 +418,8 @@ b5522eea-f29d-461b-aff7-0e00ea550d0f,yeah.gripe,available,5.38,5.38,high,low,4,s
 18c974c8-24c0-4ea9-b701-97291ae9a91a,simony.gripe,available,6.98,8.98,medium,low,6,namecheap,,,22/09/2026 08:05
 72111d2e-eb5c-43fa-905b-1868537ff4e5,accusive.gripe,available,6.98,8.98,medium,low,8,namecheap,,,
 db754caa-f3ad-4ab1-b65e-aecc08107c3d,oblivion.gripe,available,5.38,5.38,high,low,8,spaceship,,,29/09/2026 13:19
+a258a439-f755-404b-a80e-5d10b0b20f5b,odessa.gripe,available,5.2,5.2,high,low,6,cloudflare,,,01/10/2026 03:08
+79098bc5-54bd-4d91-a50d-86b5e7fd32d8,coordinating.gripe,available,5.38,5.38,medium,low,12,spaceship,,,30/09/2026 07:45
 91feea60-fc5c-426b-a5fa-578bac3795e6,bearwood.gripe,available,,,medium,low,8,,,,22/09/2026 20:58
 052e4f2b-619f-4086-8b25-d574491d461d,etiology.gripe,available,6.99,6.99,medium,low,8,namesilo,,,17/09/2026 13:48
 c4c93e91-c52c-4094-b639-437e27695e86,bicameral.gripe,available,6.98,8.98,medium,low,9,namecheap,,,09/08/2026 19:06
@@ -395,25 +427,28 @@ c4c93e91-c52c-4094-b639-437e27695e86,bicameral.gripe,available,6.98,8.98,medium,
 83bce295-92cc-40cd-9642-f5db608b9c67,offerings.gripe,available,6.99,6.99,medium,low,9,namesilo,,,18/09/2026 10:39
 afd0c354-bacf-4ab5-bf36-112ff2746e52,atresia.gripe,available,6.99,6.99,medium,low,7,namesilo,,,21/09/2026 00:42
 e4321f30-6e23-43ff-9a8a-dc7bf064aa11,wimp.gripe,available,6.98,8.98,medium,low,4,namecheap,,,24/09/2026 19:54
-71a5e7a9-dbd8-4eb4-941a-5b966d50e9db,cams.gripe,available,6.99,6.99,high,low,4,namesilo,,,20/09/2026 11:30
+71a5e7a9-dbd8-4eb4-941a-5b966d50e9db,cams.gripe,available,6.99,6.99,medium,low,4,namesilo,,,20/09/2026 11:30
 7a227bc1-8ccc-4227-b48a-d2fa84cd297f,avon.gripe,available,6.99,6.99,high,low,4,namesilo,,,28/09/2026 23:31
 a9590e1c-9189-4863-a51a-a41e34004945,amber.gripe,available,6.99,6.99,high,low,5,namesilo,,,22/09/2026 03:52
 cd795880-86ac-483c-aed9-ced6d2f07aee,preparation.gripe,available,6.98,8.98,high,low,11,namecheap,,,28/09/2026 12:30
 958029bc-26bf-4b9e-aa83-194a23fd6ab4,haircut.gripe,available,5.57,5.57,high,low,7,dynadot,,,29/09/2026 21:56
-abc49822-7f8b-40f4-820e-c8c629edf337,inform.gripe,available,6.99,6.99,high,low,6,namesilo,,,16/09/2026 07:13
+78d8c7c6-374e-4ee9-a925-5e81267d1803,hoover.gripe,available,5.2,5.2,high,low,6,cloudflare,,,30/09/2026 17:36
+abc49822-7f8b-40f4-820e-c8c629edf337,inform.gripe,available,5.38,5.38,high,low,6,spaceship,,,30/09/2026 20:20
 c8f05e5c-d162-42ee-8a2c-1df1ede1754a,reservation.gripe,available,6.99,6.99,high,low,11,namesilo,,,16/09/2026 11:10
 93f20668-586f-4380-a837-d5ab6baccbdd,hopkins.gripe,available,6.99,6.99,high,low,7,namesilo,,,19/09/2026 13:42
 6a5fbe1e-9f81-4224-a160-136c1e312e4b,easygoing.gripe,available,6.98,8.98,high,low,9,namecheap,,,13/08/2026 12:00
 6221aef7-6604-4efc-9401-2f6cb5434220,tablets.gripe,available,6.99,6.99,high,low,7,namesilo,,,18/09/2026 15:46
+706478e2-1f7e-4e4a-b31c-f358ad62a181,cemeteries.gripe,available,6.99,6.99,medium,low,10,namesilo,,,30/09/2026 14:40
 69be7131-4fef-467f-b9bf-21b02fca631c,coolly.gripe,available,5.2,5.2,medium,low,6,cloudflare,,,28/09/2026 14:20
-97721411-2ab0-48e7-a6ad-370eb154d6d4,unveil.gripe,available,6.99,6.99,high,low,6,namesilo,,,
+97721411-2ab0-48e7-a6ad-370eb154d6d4,unveil.gripe,available,6.99,6.99,high,low,6,namesilo,,,30/09/2026 16:44
 32fb749b-e9e9-4d25-be95-e639a66025f3,differences.gripe,available,6.99,6.99,medium,low,11,namesilo,,,17/09/2026 14:00
-581350a8-6607-4147-b5a4-9d2bca8e0c69,possession.gripe,available,8.98,,high,low,10,namecheap,,,
+581350a8-6607-4147-b5a4-9d2bca8e0c69,possession.gripe,available,5.66,5.66,high,low,10,porkbun,,,30/09/2026 05:10
 4bb9ee55-d756-4a45-a487-a9c542c70f51,sleeve.gripe,available,5.38,5.38,high,low,6,spaceship,,,27/09/2026 15:53
 a4e3d6e1-74a1-4cbf-812e-38e0b0b16c1a,goldfish.gripe,available,6.99,6.99,high,low,8,namesilo,,,24/09/2026 12:44
 afa89904-f894-4a4b-8a99-feb8f1e00be6,grounded.gripe,available,6.99,6.99,high,low,8,namesilo,,,27/09/2026 06:36
 1514d269-e1e2-4bfc-82b0-a56d35acc317,bush.gripe,available,6.98,8.98,high,low,4,namecheap,,,23/09/2026 11:53
 373b1d6d-589a-4666-81ec-72dea1497475,lactic.gripe,available,6.98,8.98,medium,low,6,namecheap,,,04/09/2026 08:23
+98de2540-5744-416e-bdba-e215db855449,aiding.gripe,available,6.99,6.99,high,low,6,namesilo,,,30/09/2026 12:01
 3093cb7e-2981-4167-9754-b20180b3c34e,showers.gripe,available,6.99,6.99,medium,low,7,namesilo,,,28/09/2026 23:39
 5db9a560-2089-43d8-9437-caa9d7b327eb,indolent.gripe,available,6.98,8.98,medium,low,8,namecheap,,,17/08/2026 20:53
 ab1bb501-44bf-4bc7-aa71-781b77cceffc,rhomboid.gripe,available,6.98,8.98,medium,low,8,namecheap,,,09/09/2026 16:47
@@ -423,17 +458,21 @@ ad4c4d34-a1bd-4ccd-802c-daaaca653449,praises.gripe,available,6.99,6.99,high,low,
 4f7a1259-9593-4232-8512-6089d91a18e1,vat.gripe,available,6.99,6.99,high,low,3,namesilo,,,17/09/2026 05:53
 f3ba3ad3-a424-41ce-901f-57b5b0c6b294,jenny.gripe,available,6.99,6.99,high,low,5,namesilo,,,30/09/2026 00:49
 5c131f25-7300-4a04-a851-343067f9a2eb,macpherson.gripe,available,6.99,6.99,medium,low,10,namesilo,,,28/09/2026 22:18
-a7a97a04-8f4f-497c-a596-db1b05a6e7b1,unfettered.gripe,available,6.98,8.98,high,low,10,namecheap,,,12/09/2026 04:56
+a4748f6c-659a-456a-a4d7-f1f0f7099646,helga.gripe,available,5.2,5.2,high,low,5,cloudflare,,,30/09/2026 21:14
+a7a97a04-8f4f-497c-a596-db1b05a6e7b1,unfettered.gripe,available,6.98,8.98,medium,low,10,namecheap,,,12/09/2026 04:56
 7f3a9bcc-adfe-4742-ae1a-7e1a864eab93,ablaut.gripe,available,6.99,6.99,medium,low,6,namesilo,,,16/09/2026 16:06
 4f6b6eca-2da0-4d49-a814-b24fd1b2565f,deficiency.gripe,available,5.2,5.2,medium,low,10,cloudflare,,,29/09/2026 18:36
 b3f14fa6-3e47-44f1-b6b7-264ee8564824,plushy.gripe,available,6.98,8.98,medium,low,6,namecheap,,,24/08/2026 11:02
 7dea5314-20ac-405a-a30a-83bd863b45bb,planetal.gripe,available,6.98,8.98,medium,low,8,namecheap,,,08/09/2026 20:42
 4b649904-c10b-487d-86be-10791b4d25ee,sagacious.gripe,available,6.98,8.98,high,low,9,namecheap,,,08/09/2026 18:02
+e5922414-484b-478c-b75b-f5575c19e5e2,mayflower.gripe,available,5.38,5.38,high,low,9,spaceship,,,30/09/2026 17:12
 32c2621c-9973-4e32-9fb0-1dbdf519599e,ensemble.gripe,available,6.98,8.98,high,low,8,namecheap,,,16/09/2026 09:22
+76452d81-fb4e-4fe6-be41-ca9d1d370aa6,woodville.gripe,available,5.38,5.38,medium,low,9,spaceship,,,30/09/2026 22:08
 47f1a6b8-190d-4536-8e7a-459bbdca6777,baffled.gripe,available,6.98,8.98,medium,low,7,namecheap,,,07/08/2026 11:36
+adcb4a37-2142-4bd5-834e-6315e02ec72f,masturbation.gripe,available,5.38,5.38,medium,low,12,spaceship,,,30/09/2026 14:21
 6bfd605d-25c9-40b7-9cf2-678e3aff770f,plank.gripe,available,5.57,5.57,high,low,5,dynadot,,,29/09/2026 01:50
-dad8f64d-6628-48d6-b0d6-7b0b02226235,bake.gripe,available,6.99,6.99,high,low,4,namesilo,,,
-643bbf0b-c2d2-4d78-b8bc-fe9941527e44,hemorrhage.gripe,available,6.99,6.99,high,low,10,namesilo,,,24/09/2026 05:28
+dad8f64d-6628-48d6-b0d6-7b0b02226235,bake.gripe,available,5.38,5.38,high,low,4,spaceship,,,30/09/2026 15:33
+643bbf0b-c2d2-4d78-b8bc-fe9941527e44,hemorrhage.gripe,available,6.99,6.99,medium,low,10,namesilo,,,24/09/2026 05:28
 f736baae-44c6-4e13-8dac-a683dfa6799d,english.gripe,available,6.99,6.99,high,low,7,namesilo,,,24/09/2026 14:01
 36fcb7a6-63f3-4ef0-99e6-894f9f64be87,whistle.gripe,available,6.98,8.98,high,low,7,namecheap,,,25/09/2026 23:59
 0b1c6f11-48d0-4ed5-9cb7-175a8274f231,etcetera.gripe,available,6.98,8.98,high,low,8,namecheap,,,13/09/2026 19:52
@@ -448,44 +487,49 @@ eba137ca-4c23-410d-ade6-71f1be692b20,biopsy.gripe,available,6.98,8.98,high,low,6
 412d1975-6ea0-4bdc-af44-1e64c4f6027d,birdie.gripe,available,6.99,6.99,high,low,6,namesilo,,,23/09/2026 20:41
 95927ef3-1792-4468-a7f8-67115f7d188a,judges.gripe,available,5.66,5.66,high,low,6,porkbun,,,29/09/2026 03:34
 d8afc391-88ea-4d6c-906a-fb63fa541ad3,bawdy.gripe,available,6.98,8.98,medium,low,5,namecheap,,,09/08/2026 02:05
+d47d3343-b6cb-4805-b705-57768578196f,resistances.gripe,available,5.38,5.38,medium,low,11,spaceship,,,01/10/2026 00:39
 38473711-fb45-4cd5-baed-e334f44081aa,afrikaner.gripe,available,6.98,8.98,medium,low,9,namecheap,,,
 6a6317ef-13b2-4c61-9125-e6475a482b62,prurient.gripe,available,6.98,8.98,medium,low,8,namecheap,,,24/08/2026 11:58
 0d0b18d0-490d-43b1-94c0-ef98e2c223d6,enid.gripe,available,6.98,8.98,medium,low,4,namecheap,,,28/09/2026 19:04
-75030e3e-8021-4694-807b-9abfb6827679,soviets.gripe,available,6.99,6.99,high,low,7,namesilo,,,29/09/2026 13:58
+75030e3e-8021-4694-807b-9abfb6827679,soviets.gripe,available,6.99,6.99,medium,low,7,namesilo,,,29/09/2026 13:58
 39671f4b-fde0-486f-aea3-6134e79be63e,vacuous.gripe,available,6.98,8.98,low,low,7,namecheap,,,07/08/2026 02:52
-b5010a2c-9c0d-4284-b1f4-db4beea4dd0b,arroyo.gripe,available,6.99,6.99,high,low,6,namesilo,,,20/09/2026 09:33
+b5010a2c-9c0d-4284-b1f4-db4beea4dd0b,arroyo.gripe,available,6.99,6.99,medium,low,6,namesilo,,,20/09/2026 09:33
 d0be6e31-8029-49fa-8c05-991f706e4d76,screech.gripe,available,6.98,8.98,high,low,7,namecheap,,,09/09/2026 23:57
 abb44cd5-ba40-4c8e-af77-5cff6a64696c,randolph.gripe,available,6.99,6.99,high,low,8,namesilo,,,25/09/2026 14:59
 15d7898b-f3ab-4ee7-9264-829e41f6c956,amish.gripe,available,6.99,6.99,high,low,5,namesilo,,,18/09/2026 21:52
-cdd79a87-2e5e-45db-b0fc-2ec92cc6a55d,minneapolis.gripe,available,5.38,5.38,high,low,11,spaceship,,,29/09/2026 15:27
+cdd79a87-2e5e-45db-b0fc-2ec92cc6a55d,minneapolis.gripe,available,5.38,5.38,medium,low,11,spaceship,,,29/09/2026 15:27
 2305502e-9b94-4c31-ae6b-40f8f4064445,devotional.gripe,available,6.98,8.98,high,low,10,namecheap,,,14/08/2026 05:15
 99293d36-fe13-470e-8c07-72133e2b5f39,oncologic.gripe,available,6.98,8.98,medium,low,9,namecheap,,,04/09/2026 14:25
-fb15e7c8-af6c-4201-bf69-5f7f3bc823f9,pimento.gripe,available,6.99,6.99,high,low,7,namesilo,,,23/09/2026 05:37
+fb15e7c8-af6c-4201-bf69-5f7f3bc823f9,pimento.gripe,available,6.99,6.99,medium,low,7,namesilo,,,23/09/2026 05:37
 35474718-01c3-49e7-87b2-52965e44ddd0,christopher.gripe,available,6.99,6.99,high,low,11,namesilo,,,25/09/2026 13:15
 9d5c06ae-e823-4c97-9b28-7a0f8c3958c4,justified.gripe,available,6.98,8.98,high,low,9,namecheap,,,25/09/2026 12:26
+ab24e83d-3f1d-48ed-8023-e9e376433264,magistrate.gripe,available,5.2,5.2,high,low,10,cloudflare,,,01/10/2026 02:56
 c2ce2e60-7895-4af9-b0bb-ab49c7aeef98,protein.gripe,available,6.98,8.98,high,low,7,namecheap,,,08/09/2026 08:51
 4bd43848-3808-44eb-9e78-65e0653617d9,subhuman.gripe,available,6.98,8.98,medium,low,8,namecheap,,,10/09/2026 23:56
 683a26e0-740d-4ad5-89f1-ce81d92ee886,knowable.gripe,available,6.98,8.98,medium,low,8,namecheap,,,12/08/2026 15:50
 5144f62f-9c47-41eb-a93a-a1fe09088590,quill.gripe,available,5.2,5.2,high,low,5,cloudflare,,,29/09/2026 18:54
 fdc36a30-b7be-4d1f-9338-94a08c8dfa85,fledgeling.gripe,available,6.98,8.98,medium,low,10,namecheap,,,18/08/2026 07:32
-da4f7992-932f-4c2f-837d-7ab0c6ac972b,dabbled.gripe,available,39.49,43.99,high,low,7,name.com,,,13/08/2026 15:12
+da4f7992-932f-4c2f-837d-7ab0c6ac972b,dabbled.gripe,available,39.49,43.99,medium,low,7,name.com,,,13/08/2026 15:12
 a424be43-2028-44ff-950d-d07b8bc2256e,thulium.gripe,available,39.49,43.99,medium,low,7,name.com,,,20/09/2026 23:37
 06e820aa-10ba-4edc-b6f0-3efb54c7bd19,deadlines.gripe,available,6.98,8.98,medium,low,9,namecheap,,,21/09/2026 08:50
 16f72d10-34d3-46dc-a136-9479522ab254,posts.gripe,available,6.99,6.99,high,low,5,namesilo,,,19/09/2026 00:49
 7e2386b7-c5e2-4ddf-8c41-b887857700a8,homegrown.gripe,available,6.98,8.98,high,low,9,namecheap,,,21/08/2026 10:59
-e6faebc3-d0b4-4b2f-ae57-b74c52cd6ea1,begging.gripe,available,6.99,6.99,high,low,7,namesilo,,,23/09/2026 02:16
+e6faebc3-d0b4-4b2f-ae57-b74c52cd6ea1,begging.gripe,available,6.99,6.99,medium,low,7,namesilo,,,23/09/2026 02:16
 6b294bcc-70f3-4427-ac60-c68e7e58baf8,memo.gripe,available,5.57,5.57,high,low,4,dynadot,,,28/09/2026 02:24
 1939b4b2-7ce8-445e-9077-a3c3a422333a,frontal.gripe,available,6.98,8.98,high,low,7,namecheap,,,18/08/2026 16:15
-abf39162-8e6b-4ddb-89e3-c58205dcf2bf,simpleness.gripe,available,6.98,8.98,high,low,10,namecheap,,,24/09/2026 13:51
-c12e0bd4-b477-45ab-ade1-2b6a918c7b1b,fairbanks.gripe,available,6.99,6.99,high,low,9,namesilo,,,30/09/2026 01:22
-96180f9a-0ae9-4579-b56e-4728b9ef2359,rigged.gripe,available,6.98,8.98,high,low,6,namecheap,,,09/09/2026 17:25
+abf39162-8e6b-4ddb-89e3-c58205dcf2bf,simpleness.gripe,available,6.98,8.98,medium,low,10,namecheap,,,24/09/2026 13:51
+c12e0bd4-b477-45ab-ade1-2b6a918c7b1b,fairbanks.gripe,available,6.99,6.99,medium,low,9,namesilo,,,30/09/2026 01:22
+96180f9a-0ae9-4579-b56e-4728b9ef2359,rigged.gripe,available,6.98,8.98,medium,low,6,namecheap,,,09/09/2026 17:25
+cbce5996-5ce5-4313-90a9-e0e084fd4220,minerva.gripe,available,5.38,5.38,high,medium,7,spaceship,,,30/09/2026 18:03
 c5866264-2d5d-4299-a21e-e6ea7dedac42,waning.gripe,available,6.98,8.98,medium,low,6,namecheap,,,13/09/2026 08:04
 99e770ab-3e9a-429c-a775-8ac38671fbbd,turning.gripe,available,6.99,6.99,high,low,7,namesilo,,,26/09/2026 00:27
 9a4ee14d-3564-4e23-a479-2d6c710ef7b2,sara.gripe,premium,85.8,85.8,high,low,4,namecheap,,,25/09/2026 21:30
+0d57d5e9-9107-4cbc-acd8-d3873760a58d,cip.gripe,available,5.57,5.57,high,low,3,dynadot,,,30/09/2026 21:07
 65d739ce-27a3-4bf0-b4a8-72afe1a56759,convictions.gripe,available,5.57,5.57,medium,low,11,dynadot,,,29/09/2026 04:50
 bcee9386-6163-4222-9ad4-361db9e62d46,romanians.gripe,available,5.2,5.2,medium,low,9,cloudflare,,,30/09/2026 00:08
-95e9fbda-cb45-4b74-9c6e-39cb94e0d68c,stopping.gripe,available,8.98,,high,low,8,namecheap,,,
-cbd2b979-ee28-46f6-a1c6-7c1b28aac65d,learning.gripe,available,6.99,6.99,high,low,8,namesilo,,,28/09/2026 22:07
+95e9fbda-cb45-4b74-9c6e-39cb94e0d68c,stopping.gripe,available,5.2,5.2,high,low,8,cloudflare,,,30/09/2026 12:09
+cbd2b979-ee28-46f6-a1c6-7c1b28aac65d,learning.gripe,available,6.99,6.99,high,low,8,namesilo,,,30/09/2026 16:11
+254dcd1d-e54f-4190-907d-05fd110889e1,vor.gripe,premium,78.54,78.54,medium,low,3,namesilo,,,30/09/2026 03:38
 77279a40-7de1-4a3d-846a-f5477bc8dd4f,conjunction.gripe,available,6.99,6.99,high,low,11,namesilo,,,
 b8c9ff26-d096-4d85-917f-a500d062dc88,immoral.gripe,available,6.98,8.98,medium,low,7,namecheap,,,21/08/2026 21:10
 04963b16-0405-45d5-b75f-005002ce7179,geometry.gripe,available,5.38,5.38,high,low,8,spaceship,,,29/09/2026 20:49
@@ -497,11 +541,12 @@ a623fa1c-f365-4278-a97b-3794da685f91,goosey.gripe,available,6.98,8.98,medium,low
 6671e74e-5329-454e-a77e-079f4c16d085,smetana.gripe,available,6.99,6.99,medium,low,7,namesilo,,,22/09/2026 23:32
 cf0025f2-8a57-48b8-bd96-ed4536701078,coaxial.gripe,available,6.98,8.98,medium,low,7,namecheap,,,12/08/2026 14:16
 65d21a94-2338-426f-8067-91abdaf8cb12,stir.gripe,available,6.99,6.99,high,low,4,namesilo,,,17/09/2026 09:23
+13527567-e5fa-47bb-8690-2707dc1e7970,furness.gripe,available,5.2,5.2,medium,low,7,cloudflare,,,30/09/2026 05:24
 7f3f6716-52ed-443b-ab46-e93fd96554bd,trunk.gripe,available,6.98,8.98,high,low,5,namecheap,,,21/09/2026 07:24
 d227040d-af03-4937-ac47-aa276c972018,harness.gripe,available,5.2,5.2,high,low,7,cloudflare,,,29/09/2026 01:16
 a11cc5ac-58f9-46d5-90ad-24e1f86fa945,bangtail.gripe,available,6.99,6.99,medium,low,8,namesilo,,,22/09/2026 02:02
 77d056c2-8f09-41a4-b904-841649970ba1,shag.gripe,available,6.98,8.98,medium,low,4,namecheap,,,18/08/2026 17:33
-0bd04621-4fae-4ef0-ba01-745e90c1a70c,khomeini.gripe,available,6.99,6.99,high,low,8,namesilo,,,21/09/2026 10:36
+0bd04621-4fae-4ef0-ba01-745e90c1a70c,khomeini.gripe,available,6.99,6.99,medium,low,8,namesilo,,,21/09/2026 10:36
 019b91ce-2270-4788-92a9-0291afd934ad,embossed.gripe,available,6.98,8.98,high,low,8,namecheap,,,11/08/2026 05:17
 1eb2766e-3d98-4916-8cae-25cfb6f7b806,xanax.gripe,available,6.99,6.99,medium,low,5,namesilo,,,18/09/2026 14:09
 6c303fd7-020c-4097-8d2a-f04d47e6bed0,saviour.gripe,available,6.98,8.98,high,low,7,namecheap,,,24/09/2026 14:50
@@ -511,19 +556,22 @@ edd23dca-9309-4c70-83f5-2db3d2b32743,manages.gripe,available,5.2,5.2,medium,low,
 6a50e6d1-f14e-48ec-b9f6-b125719ef7c5,banded.gripe,available,6.98,8.98,medium,low,6,namecheap,,,08/08/2026 11:40
 4ccec680-23a8-4d2e-bf10-c5fba99ba7c6,arbovirus.gripe,available,6.99,6.99,medium,low,9,namesilo,,,20/09/2026 00:52
 a20c8bca-4504-4b77-b60a-4c5798a14411,atavistic.gripe,available,6.98,8.98,low,low,9,namecheap,,,07/08/2026 12:55
-399ad5f5-2861-4cea-a2e6-8ab67c42d81e,orientation.gripe,available,6.98,8.98,high,low,11,namecheap,,,28/09/2026 22:40
+230702f8-d662-441f-a32f-7091c0a81dbf,digs.gripe,available,5.2,5.2,high,low,4,cloudflare,,,30/09/2026 16:59
+399ad5f5-2861-4cea-a2e6-8ab67c42d81e,orientation.gripe,available,6.98,8.98,medium,low,11,namecheap,,,28/09/2026 22:40
 18ddf4f7-3a64-41f4-8664-f3b69a6030cf,abbe.gripe,available,6.99,6.99,medium,low,4,namesilo,,,16/09/2026 14:22
 c5c2fd6e-2495-4db4-bc20-6c9752323293,grandiose.gripe,available,6.98,8.98,high,low,9,namecheap,,,20/08/2026 17:58
 fe61e62a-3e09-402a-a96f-731a1751f2d7,pba.gripe,available,5.38,5.38,high,low,3,spaceship,,,29/09/2026 14:26
 22a576b0-37c6-4f3e-bd2c-840ee96904bb,freudian.gripe,available,6.98,8.98,medium,low,8,namecheap,,,18/08/2026 15:26
-a50ce2c5-5b55-496d-a26b-4a744017cd5f,enable.gripe,available,6.99,6.99,high,low,6,namesilo,,,
+a50ce2c5-5b55-496d-a26b-4a744017cd5f,enable.gripe,available,5.2,5.2,high,low,6,cloudflare,,,30/09/2026 19:00
 721b3c8e-d39e-4983-a363-8b0f1cacfc44,perceiver.gripe,available,6.98,8.98,high,low,9,namecheap,,,08/09/2026 16:18
 a2169ec7-c22d-44d1-8ace-15b64eb1edc6,slowpoke.gripe,available,6.98,8.98,medium,low,8,namecheap,,,10/09/2026 20:25
 d8f87afb-612a-4552-972a-1661109f0d4a,bartok.gripe,available,6.99,6.99,medium,low,6,namesilo,,,22/09/2026 09:23
 93c0caaa-cd4a-4fa6-9daa-82891c062597,jeffrey.gripe,available,6.99,6.99,high,low,7,namesilo,,,25/09/2026 13:36
 d1f13637-14f1-4d7e-9483-06d802ca74ad,surrender.gripe,available,5.66,5.66,high,low,9,porkbun,,,28/09/2026 11:23
+fca9ae7b-62d0-41aa-9d0f-da26161e2159,aspire.gripe,available,6.98,8.98,high,low,6,namecheap,,,01/10/2026 04:08
 2a463ae3-e6e1-4b82-b09a-ae62b69173eb,earle.gripe,available,6.99,6.99,medium,low,5,namesilo,,,26/09/2026 03:17
-0c0f0d43-9b7f-4e76-9cca-ffc6f7a66854,houghton.gripe,available,6.99,6.99,high,low,8,namesilo,,,25/09/2026 23:07
+0c0f0d43-9b7f-4e76-9cca-ffc6f7a66854,houghton.gripe,available,6.99,6.99,medium,low,8,namesilo,,,25/09/2026 23:07
+a290a708-b59d-4bcd-a8be-f5f449b0e65c,jacksonville.gripe,premium,,,high,low,12,,,,30/09/2026 04:53
 7b568992-242b-4489-b5cf-09f266a47c23,greenberg.gripe,available,6.98,8.98,high,low,9,namecheap,,,27/09/2026 04:16
 465002a3-1e94-4c4c-95e2-67e8e8728d1e,weighted.gripe,available,6.98,8.98,high,low,8,namecheap,,,13/09/2026 10:08
 e3912126-649d-4bd3-9462-7916a641b310,conical.gripe,available,6.98,8.98,high,low,7,namecheap,,,12/08/2026 20:41
@@ -535,21 +583,24 @@ ded65f27-11e7-4bab-befa-b613219ef04b,experiencing.gripe,available,6.98,8.98,high
 bbb88212-3162-462b-bd51-c10881db607d,annexe.gripe,available,6.99,6.99,high,low,6,namesilo,,,19/09/2026 10:24
 9b52b1e3-b569-4b89-b896-11eeaa98a14a,afrikaans.gripe,available,6.98,8.98,medium,low,9,namecheap,,,
 3f60b304-0eda-4a23-b909-19708c69b218,codified.gripe,available,6.98,8.98,medium,low,8,namecheap,,,12/08/2026 15:19
+84a82eaa-e91d-4952-829a-66252182e941,shipwreck.gripe,available,5.38,5.38,medium,low,9,spaceship,,,01/10/2026 03:42
 a693933f-4cfe-4509-9d0b-0253ab8640c3,cinque.gripe,available,6.98,8.98,medium,low,6,namecheap,,,
-fe86e4de-aac0-4e27-a5dd-8a1ca31902d9,minus.gripe,available,6.98,8.98,high,low,5,namecheap,,,25/08/2026 00:55
+fe86e4de-aac0-4e27-a5dd-8a1ca31902d9,minus.gripe,available,6.98,8.98,medium,low,5,namecheap,,,25/08/2026 00:55
 6481a57e-36b5-4731-ae98-f67981e60339,bars.gripe,available,5.38,5.38,high,low,4,spaceship,,,29/09/2026 01:17
+a40d9689-4044-4317-956e-0cba9193109e,intellectuals.gripe,available,5.38,5.38,medium,low,13,spaceship,,,01/10/2026 00:59
 d6f9eafd-a259-4e3b-a84e-018e42ff6e72,dogwalking.gripe,available,6.98,8.98,high,low,10,namecheap,,,18/09/2026 19:10
-8ff29e1a-e86c-43fa-b89a-3351efec792a,akkadian.gripe,available,6.98,8.98,high,low,8,namecheap,,,18/09/2026 00:10
+03bef7b9-ca3e-4d09-bb84-f95c017fa982,speedway.gripe,available,5.38,5.38,high,low,8,spaceship,,,01/10/2026 03:48
+8ff29e1a-e86c-43fa-b89a-3351efec792a,akkadian.gripe,available,6.98,8.98,medium,low,8,namecheap,,,18/09/2026 00:10
 81fa0a17-b99f-4d66-9237-f25cb4e1fa50,holy.gripe,available,6.98,8.98,high,low,4,namecheap,,,21/08/2026 10:43
 6ed32682-64d5-4211-b1c7-26182fde7d46,impromptu.gripe,available,6.98,8.98,high,low,9,namecheap,,,
 10db76e9-2d79-4f76-8449-2369e4e75f12,waxing.gripe,available,6.98,8.98,high,low,6,namecheap,,,13/09/2026 08:44
 ed0bd835-530c-46a7-8599-b4a4119cf640,westminster.gripe,available,6.99,6.99,high,low,11,namesilo,,,
 e813d603-1b03-419a-aee5-d81e6c6b38d3,requisite.gripe,available,6.98,8.98,high,low,9,namecheap,,,17/08/2026 13:21
-f8857b42-0498-452e-bb7d-8dd45f73478b,ducks.gripe,available,5.38,5.38,high,low,5,spaceship,,,27/09/2026 23:17
+f8857b42-0498-452e-bb7d-8dd45f73478b,ducks.gripe,available,5.38,5.38,medium,low,5,spaceship,,,27/09/2026 23:17
 f94d7411-d4fb-48b4-b728-e5d2e617d0c6,abetter.gripe,available,6.99,6.99,medium,low,7,namesilo,,,16/09/2026 15:19
 410179ed-c00e-43de-9e87-8fc104ba06c5,dozen.gripe,available,6.99,6.99,high,low,5,namesilo,,,21/09/2026 11:29
 667f16b6-853a-4726-9ec4-612f4f1eeb4b,lobe.gripe,available,5.57,5.57,high,low,4,dynadot,,,29/09/2026 19:33
-97a13b44-cc68-47e3-b730-11cfcd057331,checkered.gripe,available,6.98,8.98,high,low,9,namecheap,,,12/08/2026 03:38
+97a13b44-cc68-47e3-b730-11cfcd057331,checkered.gripe,available,6.98,8.98,medium,low,9,namecheap,,,12/08/2026 03:38
 167acaf6-f9fc-419a-b0b5-36c1f970deb7,commence.gripe,available,6.99,6.99,high,low,8,namesilo,,,23/09/2026 02:22
 4be5bf73-ff0f-4454-a303-d17bc86870cd,synergetic.gripe,available,6.98,8.98,high,low,10,namecheap,,,11/09/2026 06:25
 e9106ef4-aa98-4ab3-8198-84c3bf5f72c7,comedian.gripe,available,6.99,6.99,high,low,8,namesilo,,,23/09/2026 15:26
@@ -569,7 +620,7 @@ e1608e63-b4aa-43d7-9aff-2998734d130f,neuronic.gripe,available,6.98,8.98,medium,l
 0685cd61-60ab-4328-bc56-5858dd004767,lowell.gripe,available,6.98,8.98,high,low,6,namecheap,,,16/09/2026 14:32
 2bfd9015-51d5-4fd8-a106-d14f40418e75,teaser.gripe,available,6.98,8.98,high,low,6,namecheap,,,19/09/2026 10:50
 52da751d-8f91-4a49-8912-1b28854e56d1,spent.gripe,available,6.98,8.98,medium,low,5,namecheap,,,14/08/2026 14:53
-a2ed54c3-6700-47d8-a7ed-5752cdae7904,xviii.gripe,available,6.99,6.99,high,low,5,namesilo,,,21/09/2026 12:00
+a2ed54c3-6700-47d8-a7ed-5752cdae7904,xviii.gripe,available,6.99,6.99,medium,low,5,namesilo,,,21/09/2026 12:00
 7260de60-25da-4414-9ca4-daf88c960237,diffusive.gripe,available,6.98,8.98,medium,low,9,namecheap,,,14/08/2026 07:10
 c1934768-ed7e-41c0-ae53-1cfc0cf041e4,vehement.gripe,available,6.98,8.98,medium,low,8,namecheap,,,11/09/2026 09:44
 d296caa5-87c7-4fa2-83c5-7faead7a218a,nonviable.gripe,available,6.98,8.98,medium,low,9,namecheap,,,03/09/2026 21:02
@@ -587,6 +638,7 @@ cb39b824-bc57-4642-b0c9-00d1f9a17386,related.gripe,available,6.98,8.98,high,low,
 ceda1da4-bded-4e4d-905f-8d0827f0029c,market.gripe,premium,85.8,85.8,high,medium,6,namecheap,,,19/09/2026 13:41
 984abdf1-313a-4973-beb2-be426872e008,monastic.gripe,available,6.98,8.98,medium,low,8,namecheap,,,12/08/2026 11:57
 8f595736-30b5-4422-8305-3c97f288d46c,ferguson.gripe,available,6.98,8.98,high,low,8,namecheap,,,25/09/2026 17:55
+aa9045b2-2de6-44c6-8291-eb393c22aa8e,assessed.gripe,available,6.99,6.99,high,low,8,namesilo,,,01/10/2026 00:03
 0c9adcc3-7023-408d-9a22-e13f6823541b,objection.gripe,available,6.99,6.99,high,low,9,namesilo,,,25/09/2026 22:40
 85abdda5-d199-416c-b5b0-5261b5f34e41,biol.gripe,available,6.99,6.99,high,low,4,namesilo,,,29/09/2026 16:48
 7187144b-ce9a-4e5e-9dff-82254d46b84c,buttonlike.gripe,available,6.98,8.98,medium,low,10,namecheap,,,09/08/2026 03:39
@@ -596,6 +648,7 @@ ca56c0db-6b14-4b95-8f17-15b326091f52,arboreal.gripe,available,6.98,8.98,high,low
 3dae7aca-6606-499d-a5ca-f3c8bf358998,moshe.gripe,available,5.2,5.2,medium,low,5,cloudflare,,,28/09/2026 12:12
 27bb0f56-64f0-4b44-8b95-f78b7346af27,songs.gripe,available,6.98,8.98,high,low,5,namecheap,,,25/09/2026 19:03
 958c6e55-9c9b-47c5-bbe7-69fb507df2ac,definitively.gripe,available,6.99,6.99,medium,low,12,namesilo,,,
+4da4eca6-9422-4988-af74-864e43a3d0dc,hara.gripe,available,6.99,6.99,medium,low,4,namesilo,,,30/09/2026 13:49
 439efbc4-637c-4289-89b2-02b24bd337b7,batten.gripe,available,6.99,6.99,medium,low,6,namesilo,,,22/09/2026 14:27
 806e350f-c901-4a90-947e-eee8539e4716,inc.gripe,premium,38.94,38.94,high,low,3,namesilo,,,29/09/2026 23:44
 b67dc66b-550c-47c5-93d7-93eb16d84783,brawl.gripe,available,6.99,6.99,high,low,5,namesilo,,,29/09/2026 11:45
@@ -611,7 +664,7 @@ f45df759-6e1f-4fe6-919c-1c031bc824be,suborbital.gripe,available,6.98,8.98,medium
 4b0680c3-5e63-45fe-8a2a-2c9b815d1287,atmosphere.gripe,available,6.99,6.99,high,low,10,namesilo,,,18/09/2026 16:39
 95a8a8b2-80b6-4311-9f89-40e283159ba9,robeson.gripe,available,6.99,6.99,medium,low,7,namesilo,,,29/09/2026 13:40
 950a64ec-c3a0-4bac-af8c-be8a2f9db5af,detailed.gripe,available,6.99,6.99,high,low,8,namesilo,,,24/09/2026 07:09
-5b3f4754-cb7a-4aaf-94dd-cbeeef19f50f,runabout.gripe,available,6.99,6.99,high,low,9,namesilo,,,
+5b3f4754-cb7a-4aaf-94dd-cbeeef19f50f,runabout.gripe,available,6.99,6.99,medium,low,9,namesilo,,,
 66986cf0-f141-4955-82f0-856157a939fe,blowzy.gripe,available,6.98,8.98,low,low,6,namecheap,,,10/08/2026 15:41
 6c42f317-6a7e-4793-af42-e7ad6751f8fe,yon.gripe,premium,38.94,38.94,medium,low,3,namesilo,,,13/09/2026 14:47
 25cd02d5-5592-4e82-abc0-b5e96f4331a1,revocable.gripe,available,6.98,8.98,medium,low,9,namecheap,,,09/09/2026 16:21
@@ -619,6 +672,7 @@ e1fa97a1-afa1-4503-bf95-b47170fe7912,audad.gripe,available,6.99,6.99,medium,low,
 234a43bc-a1d9-4c12-92f5-fa1d4791046f,thusly.gripe,available,6.98,8.98,medium,low,6,namecheap,,,16/09/2026 09:04
 e43cd4e0-45e7-4c38-961d-6d49235523d8,shasta.gripe,available,5.57,5.57,medium,low,6,dynadot,,,28/09/2026 14:55
 7d36fca3-a443-4378-b9cc-dfa9dde2387a,soldiers.gripe,available,6.99,6.99,medium,low,8,namesilo,,,
+46a2b256-5a1c-45b0-bce5-6cced4b582fe,stomp.gripe,available,6.99,6.99,high,low,5,namesilo,,,30/09/2026 18:50
 3697044a-6a7b-4dbd-b5b7-6ce01d2c0a3d,ishmael.gripe,available,6.98,8.98,high,low,7,namecheap,,,04/09/2026 19:10
 a2648436-1d50-4b39-94fe-b471790fa59f,figure.gripe,available,6.99,6.99,high,low,6,namesilo,,,24/09/2026 16:50
 20e83c0c-cff4-45b9-9483-d9d223838f1c,airports.gripe,available,5.38,5.38,medium,low,8,spaceship,,,30/09/2026 00:31
@@ -641,9 +695,10 @@ c342ec5e-9d3c-4389-80d4-66334769fe4c,stream.gripe,available,6.99,6.99,high,mediu
 962d1fa1-ab37-4878-ac6a-0ea30d471606,venushair.gripe,available,6.99,6.99,medium,low,9,namesilo,,,17/09/2026 08:07
 26be50fa-4ee4-46d1-9233-14dc442c4fa9,hearty.gripe,available,6.98,8.98,high,low,6,namecheap,,,21/08/2026 02:13
 e6447558-e73d-4fe8-8635-b496e392f93a,expressly.gripe,available,6.98,8.98,medium,low,9,namecheap,,,14/09/2026 17:09
-d138f364-4882-471b-9752-77ef126c7009,talus.gripe,available,6.99,6.99,high,low,5,namesilo,,,19/09/2026 09:46
+d138f364-4882-471b-9752-77ef126c7009,talus.gripe,available,6.99,6.99,medium,low,5,namesilo,,,19/09/2026 09:46
 a9ba20b1-8487-4e8b-8ffc-1ac0fd483871,balaton.gripe,available,6.98,8.98,medium,low,7,namecheap,,,21/09/2026 21:18
-37d24031-23b4-420c-a924-2747cc8706f3,azide.gripe,available,6.99,6.99,high,low,5,namesilo,,,21/09/2026 11:12
+37d24031-23b4-420c-a924-2747cc8706f3,azide.gripe,available,6.99,6.99,medium,low,5,namesilo,,,21/09/2026 11:12
+cbe9127d-6f96-48c8-8155-fbca5e2e0d67,chipped.gripe,available,6.99,6.99,medium,low,7,namesilo,,,30/09/2026 19:50
 be6adcfe-8e75-4ed9-af4a-7a201b83814c,cymose.gripe,available,39.49,43.99,medium,low,6,name.com,,,13/08/2026 13:57
 9e88bc02-341f-4059-883c-189f923aac01,lxv.gripe,available,6.98,8.98,medium,low,3,namecheap,,,
 29f9e86c-7164-470f-87bd-7b440850040f,banal.gripe,available,6.99,6.99,medium,low,5,namesilo,,,22/09/2026 16:37
@@ -652,12 +707,13 @@ be6adcfe-8e75-4ed9-af4a-7a201b83814c,cymose.gripe,available,39.49,43.99,medium,l
 3c63d32e-c9af-4335-94b9-82b040ce023e,aperea.gripe,available,6.99,6.99,medium,low,6,namesilo,,,19/09/2026 16:31
 12357f6f-8a1e-4b9b-8a36-e4d034dba29f,lionel.gripe,available,5.66,5.66,medium,low,6,porkbun,,,28/09/2026 16:08
 d5f6f019-c362-4ded-87b4-8f839b1d8e92,discovered.gripe,available,6.99,6.99,high,low,10,namesilo,,,29/09/2026 09:22
+ccb9c2e8-7f1e-4250-b56a-c40f9a960009,infections.gripe,available,5.38,5.38,low,low,10,spaceship,,,30/09/2026 15:33
 d0198e92-558f-4f10-917b-58c1b863b682,checks.gripe,available,6.98,8.98,high,low,6,namecheap,,,25/09/2026 20:11
 1451f374-cb4d-4753-9ce7-54033eb88f26,psychological.gripe,available,5.57,5.57,medium,low,13,dynadot,,,28/09/2026 04:31
 ba8bf70e-6c2b-4805-981f-767143d6cb78,bart.gripe,available,6.99,6.99,high,low,4,namesilo,,,22/09/2026 07:32
 2e3bb99b-7fd6-41c6-b4eb-d55652d2aa26,stepaside.gripe,available,6.98,8.98,medium,low,10,namecheap,,,16/09/2026 15:09
 5c6c5b36-76f8-421f-92d8-7aad02721e93,projecting.gripe,available,6.98,8.98,high,low,10,namecheap,,,22/08/2026 14:48
-4076f0d4-f6a6-41e6-b67d-9bb1443d2c69,laudable.gripe,available,6.98,8.98,high,low,8,namecheap,,,06/08/2026 07:01
+4076f0d4-f6a6-41e6-b67d-9bb1443d2c69,laudable.gripe,available,6.98,8.98,medium,low,8,namecheap,,,06/08/2026 07:01
 f375cada-ae37-4e5c-9372-7f006a67115c,named.gripe,available,6.99,6.99,high,low,5,namesilo,,,
 882dd9b6-dd00-4083-b900-54fb1180950b,eurasian.gripe,available,6.98,8.98,high,low,8,namecheap,,,17/08/2026 14:26
 048095b0-24cc-4dee-90ea-5ac898b0698d,acorea.gripe,available,6.99,6.99,medium,low,6,namesilo,,,17/09/2026 02:12
@@ -668,11 +724,13 @@ dddfb069-7e88-4fcc-9244-0b59c3173f43,auriferous.gripe,available,6.99,6.99,medium
 307e24c3-e6ae-4023-b7d5-aebbdeb78e96,nellie.gripe,available,5.66,5.66,high,low,6,porkbun,,,27/09/2026 18:29
 9316932d-3a9b-477f-bbda-fc2438c94c10,walk.gripe,available,6.99,6.99,high,low,4,namesilo,,,27/09/2026 02:47
 35331ac1-861c-4630-bb09-f3ac4a936162,slurred.gripe,available,6.98,8.98,medium,low,7,namecheap,,,10/09/2026 11:42
-1c06792a-1da5-4039-aab4-1701c00c2229,sneeze.gripe,available,6.99,6.99,high,low,6,namesilo,,,
-e0056f42-b008-4cf0-9e86-a75ac20637af,blackpool.gripe,available,6.99,6.99,medium,low,9,namesilo,,,24/09/2026 02:57
+1c06792a-1da5-4039-aab4-1701c00c2229,sneeze.gripe,available,6.98,8.98,high,low,6,namecheap,,,30/09/2026 11:17
+f7a7fa58-e804-4504-8665-44a2ebf68a70,salads.gripe,available,5.38,5.38,medium,low,6,spaceship,,,30/09/2026 14:29
+e0056f42-b008-4cf0-9e86-a75ac20637af,blackpool.gripe,available,5.57,5.57,medium,low,9,dynadot,,,30/09/2026 05:52
 f12cbaa5-97ef-48b3-b3e8-b04cd31a2edb,backboard.gripe,available,6.98,8.98,high,low,9,namecheap,,,21/09/2026 15:09
 bda8bace-2666-40ef-ba5a-53ba91596a24,repand.gripe,available,6.98,8.98,medium,low,6,namecheap,,,09/09/2026 14:25
 915da4be-d86a-4e70-ba11-d02de878b66f,checking.gripe,available,6.99,6.99,high,low,8,namesilo,,,25/09/2026 12:11
+f3fbbe47-106e-402f-b4f7-159a80fa9086,reminiscent.gripe,available,6.99,6.99,high,low,11,namesilo,,,30/09/2026 11:29
 3521bcfb-bc60-48a6-92a1-f9be15497cd9,brothers.gripe,available,6.98,8.98,high,low,8,namecheap,,,
 96622dec-cadb-4ba0-940a-5bc8162842de,jumpy.gripe,available,6.98,8.98,medium,low,5,namecheap,,,11/08/2026 09:53
 596438e0-17ef-4089-a3a0-68c4d70c75a2,soggy.gripe,available,6.98,8.98,high,low,5,namecheap,,,10/08/2026 17:14
@@ -680,6 +738,7 @@ bda8bace-2666-40ef-ba5a-53ba91596a24,repand.gripe,available,6.98,8.98,medium,low
 a339c415-6bae-435b-b5ee-da2f1f133e63,tighten.gripe,available,5.38,5.38,high,low,7,spaceship,,,29/09/2026 14:16
 d72ef4e7-d9ab-4edc-91d7-ff29313603af,chair.gripe,available,6.98,8.98,high,low,5,namecheap,,,25/09/2026 21:14
 3e5b0ef8-ab89-4f6e-b00e-2de0748c8c03,waist.gripe,available,5.57,5.57,high,low,5,dynadot,,,28/09/2026 06:51
+dc008ec9-07ce-4a4d-aa1e-048b49a42efc,sinks.gripe,available,5.2,5.2,medium,low,5,cloudflare,,,30/09/2026 15:46
 dca22e55-e469-468e-a474-1a3786e04886,blues.gripe,available,6.99,6.99,high,low,5,namesilo,,,29/09/2026 03:01
 16a9eddb-29d2-4927-bd8a-1d9876b1a889,gruesome.gripe,available,6.98,8.98,medium,low,8,namecheap,,,18/08/2026 23:17
 4b0ee7c9-d4a0-489e-9804-2121b3889b7c,middle.gripe,available,6.99,6.99,high,low,6,namesilo,,,23/09/2026 13:24
@@ -689,6 +748,7 @@ b6eee52d-fb4a-4d35-873f-89d541ccf1d4,ftp.gripe,available,9.99,9.99,high,low,3,go
 40c77084-5b70-49e0-8ca6-5d2c5db2c840,betimes.gripe,available,6.98,8.98,medium,low,7,namecheap,,,13/09/2026 23:59
 5e5d280e-8478-4c59-9616-ba2c82b6d1fd,stocky.gripe,available,6.98,8.98,medium,low,6,namecheap,,,21/08/2026 05:33
 29d7b533-ef24-4704-9394-3e6dd6ef8852,delivering.gripe,available,5.38,5.38,high,low,10,spaceship,,,28/09/2026 11:30
+66512869-9915-4afb-8593-e83d9ac0e89d,supervising.gripe,available,9.99,9.99,medium,low,11,godaddy,,,01/10/2026 00:08
 349c01a8-43c7-472d-9bc6-a454a8ff5977,workfare.gripe,available,6.99,6.99,high,low,8,namesilo,,,
 5cc58037-815c-4fa8-9884-cefc198be697,thematic.gripe,available,6.98,8.98,high,low,8,namecheap,,,11/09/2026 12:43
 6288bafa-c2cd-4e79-991e-8c3327723977,premium.gripe,available,39.49,43.99,high,medium,7,name.com,,,27/09/2026 05:00
@@ -699,7 +759,7 @@ def9c7b4-032a-45d4-8c0f-3a3a428517ff,vassal.gripe,available,6.98,8.98,medium,low
 17475ad8-147d-48d4-ba2d-ff9ec797fe08,findings.gripe,available,5.38,5.38,high,low,8,spaceship,,,28/09/2026 19:12
 11818807-24ca-4fa5-95c1-37a424045fb4,homey.gripe,available,6.98,8.98,high,low,5,namecheap,,,21/08/2026 11:06
 678ef2ec-7cba-40e7-9d79-8ec9d0e9ffd3,sherry.gripe,available,5.57,5.57,medium,low,6,dynadot,,,28/09/2026 15:20
-ebad1edc-f54d-4099-a356-82a5744b014f,hey.gripe,premium,41.25,,high,medium,3,name.com,,,
+ebad1edc-f54d-4099-a356-82a5744b014f,hey.gripe,premium,36.3,36.3,high,medium,3,dynadot,,,30/09/2026 23:17
 5003fa2f-b1d3-4266-8b60-74f47db035e8,wilbur.gripe,available,6.99,6.99,high,low,6,namesilo,,,27/09/2026 07:43
 a8cac79a-89d5-44c2-8b7b-0d3c4b1182ff,protection.gripe,available,6.99,6.99,high,low,10,namesilo,,,19/09/2026 09:47
 bcf35e89-4169-4016-a4b3-52688d7125d6,rotation.gripe,available,6.99,6.99,high,low,8,namesilo,,,29/09/2026 21:53
@@ -710,27 +770,31 @@ a09027a9-0848-4c6f-8135-a6c72488150c,gaseous.gripe,available,6.98,8.98,medium,lo
 bff89ec8-a578-4dd4-9008-021b2314d791,faint.gripe,available,6.98,8.98,high,low,5,namecheap,,,17/08/2026 21:01
 a2019c45-b4cf-42bb-a243-769ea696c640,ipo.gripe,premium,68.51,68.51,high,low,3,spaceship,,,29/09/2026 01:21
 434f24e6-e303-46db-b79c-d4acb62a8727,delineated.gripe,available,6.98,8.98,medium,low,10,namecheap,,,14/08/2026 00:37
+dbd55e92-81be-424e-bc76-2e66ba0838c6,kari.gripe,available,5.2,5.2,medium,low,4,cloudflare,,,30/09/2026 13:17
 267c37e1-0c0e-42f9-acf3-bdac85c2dcaa,protean.gripe,available,6.98,8.98,high,low,7,namecheap,,,09/09/2026 04:06
+49d53876-65a0-496a-9fd9-1e86802565ca,artificially.gripe,available,6.99,6.99,medium,low,12,namesilo,,,30/09/2026 12:09
 c1080b65-22f8-407b-a74e-ba0e00e69184,maunder.gripe,available,6.98,8.98,medium,low,7,namecheap,,,23/09/2026 23:31
 d53a364b-a9a5-49a1-bec0-acb89c581727,cucumber.gripe,available,5.57,5.57,high,low,8,dynadot,,,29/09/2026 12:58
 09f320c0-e7ef-4541-a6cb-c3e6277a8eb4,hazardous.gripe,available,6.98,8.98,medium,low,9,namecheap,,,21/08/2026 01:42
 45527e09-6989-4b7a-91e1-c24bcc104e42,uniforms.gripe,available,5.38,5.38,medium,low,8,spaceship,,,28/09/2026 00:32
 cb8d34b4-6816-4339-9213-3eafd64ecd02,tahoe.gripe,available,6.99,6.99,high,low,5,namesilo,,,
 859b8920-1a59-4532-a807-834686122fa9,perceive.gripe,available,6.99,6.99,high,low,8,namesilo,,,29/09/2026 20:45
+061c83e5-f831-45d0-aea4-3e26ead8021f,coproduction.gripe,available,6.99,6.99,medium,low,13,namesilo,,,30/09/2026 14:49
 df102eb1-2753-4a19-8d88-0a12c5fd5fe3,blueberry.gripe,available,5.66,5.66,high,low,9,porkbun,,,30/09/2026 00:50
 922f67fd-3745-421d-91e7-5c91f8202d01,enrollment.gripe,available,5.38,5.38,high,low,10,spaceship,,,28/09/2026 02:45
 e9257f5d-7bf7-4790-b834-09665c5c58cc,somehow.gripe,available,5.2,5.2,medium,low,7,cloudflare,,,28/09/2026 15:41
 107cfb53-74ec-4049-98da-47edc75bd26d,tenting.gripe,available,6.99,6.99,high,low,7,namesilo,,,23/09/2026 23:16
 6ac95e35-672a-432e-b228-accafe4eaf3c,encased.gripe,available,6.98,8.98,medium,low,7,namecheap,,,11/08/2026 20:06
 2f2c84c6-eb0b-43c8-b951-8b9f6d06b0f4,aeolia.gripe,available,6.99,6.99,low,low,6,namesilo,,,17/09/2026 12:34
-2e5348bd-0c00-4abe-b295-f4a965dd87d6,schedule.gripe,available,6.99,6.99,high,low,8,namesilo,,,28/09/2026 04:02
+2e5348bd-0c00-4abe-b295-f4a965dd87d6,schedule.gripe,available,5.38,5.38,high,low,8,spaceship,,,30/09/2026 20:43
 2b496732-ec99-40bc-bd6f-062d0e9d966a,clausal.gripe,available,6.98,8.98,medium,low,7,namecheap,,,12/08/2026 10:00
 33592a7a-fcea-44b3-85f6-983b13a2ebc7,telescoped.gripe,available,6.98,8.98,medium,low,10,namecheap,,,11/09/2026 10:22
 7d6b19ff-007b-42cd-8a50-db4949a761a9,ming.gripe,available,5.38,5.38,high,low,4,spaceship,,,28/09/2026 02:26
 5ac1606d-7c6c-43cd-a3f0-05c293dc4bd3,dysphoric.gripe,available,6.98,8.98,medium,low,9,namecheap,,,14/08/2026 22:07
 e73cf602-19ee-4eaa-8e74-5d5585a34617,lacks.gripe,available,6.99,6.99,low,low,5,namesilo,,,29/09/2026 10:48
+2a364eaa-9a0b-42f7-a5ac-529b06947db3,piraeus.gripe,available,6.99,6.99,medium,low,7,namesilo,,,30/09/2026 20:50
 ee62ab82-b11d-4a49-a665-88273f85d2d3,reel.gripe,available,6.99,6.99,high,low,4,namesilo,,,24/09/2026 06:24
-98377f2f-7711-4c76-93d7-cf432a801810,foldaway.gripe,available,6.98,8.98,high,low,8,namecheap,,,18/08/2026 10:07
+98377f2f-7711-4c76-93d7-cf432a801810,foldaway.gripe,available,6.98,8.98,medium,low,8,namecheap,,,18/08/2026 10:07
 8d4df92e-230f-4111-b65e-3cdfcf5f2e24,mellow.gripe,available,6.98,8.98,high,low,6,namecheap,,,22/08/2026 18:52
 4430ab16-551d-4f9a-a279-8e232d3c4d5c,being.gripe,available,6.98,8.98,high,low,5,namecheap,,,23/09/2026 04:18
 6f50ba00-3916-42c8-a342-24b87a55cf57,raised.gripe,available,6.98,8.98,high,low,6,namecheap,,,23/09/2026 09:46
@@ -743,41 +807,45 @@ cecf9223-535e-404e-b6a2-8c6a905b7b7f,annulet.gripe,available,39.49,43.99,medium,
 1b4aa7e0-dc90-4467-863a-f0e6f206374d,cva.gripe,available,6.98,8.98,medium,low,3,namecheap,,,19/09/2026 19:12
 1dc52560-465d-4ad8-b78d-04bf0559c3a4,flaming.gripe,available,6.98,8.98,high,low,7,namecheap,,,18/08/2026 06:30
 0bd5ac22-b242-43b6-883f-4f7063eaabb8,rises.gripe,available,5.38,5.38,low,low,5,spaceship,,,28/09/2026 13:01
-51bba142-1803-48f2-ba57-71b04acfafdf,slovakian.gripe,available,6.98,8.98,high,low,9,namecheap,,,10/09/2026 11:16
+51bba142-1803-48f2-ba57-71b04acfafdf,slovakian.gripe,available,6.98,8.98,medium,low,9,namecheap,,,10/09/2026 11:16
 146ffceb-9156-4954-b9f2-5a6ea34fd0a7,novice.gripe,available,6.99,6.99,high,low,6,namesilo,,,23/09/2026 02:23
 2253ba35-537e-4451-8bf6-27821955f1a3,overcomes.gripe,available,6.99,6.99,medium,low,9,namesilo,,,21/09/2026 04:26
 9ae2a892-09f7-4f2b-ae41-19e7faaf7762,flats.gripe,available,5.38,5.38,high,low,5,spaceship,,,29/09/2026 12:22
-cc964701-dee8-461f-9616-5009653cd9d1,bonk.gripe,available,6.99,6.99,high,low,4,namesilo,,,22/09/2026 10:31
+cc964701-dee8-461f-9616-5009653cd9d1,bonk.gripe,available,6.99,6.99,medium,low,4,namesilo,,,22/09/2026 10:31
 f85249fb-298f-4384-98d1-4974d76d2499,plumb.gripe,available,6.98,8.98,high,low,5,namecheap,,,12/08/2026 10:05
 c47f32bb-8b24-4764-9f72-e6b4826356da,withal.gripe,available,6.98,8.98,medium,low,6,namecheap,,,13/09/2026 18:51
 a5a63407-21cf-4408-9bea-3061a750b884,caucasian.gripe,available,6.98,8.98,high,low,9,namecheap,,,11/08/2026 22:16
 1c8013e5-f130-4c5a-be2d-279224ad1895,apoplexy.gripe,available,6.98,8.98,medium,low,8,namecheap,,,19/09/2026 19:09
 78e6d0c2-d946-4061-9b13-bba17dc21e1c,sass.gripe,available,6.99,6.99,high,low,4,namesilo,,,21/09/2026 14:47
 3bc4d66d-3d59-4166-8152-3b4acb407cbe,amnionic.gripe,available,6.98,8.98,medium,low,8,namecheap,,,
-6ac86d72-348e-435f-bef5-1f25b2bbc425,insinuate.gripe,available,6.98,8.98,high,low,9,namecheap,,,22/08/2026 08:35
-6d9ebf7f-5eb7-433e-8f93-6b8fa76d1aea,cns.gripe,available,5.66,5.66,high,low,3,porkbun,,,28/09/2026 09:21
+6ac86d72-348e-435f-bef5-1f25b2bbc425,insinuate.gripe,available,6.98,8.98,medium,low,9,namecheap,,,22/08/2026 08:35
+6d9ebf7f-5eb7-433e-8f93-6b8fa76d1aea,cns.gripe,available,5.66,5.66,medium,low,3,porkbun,,,28/09/2026 09:21
 6b078523-e3de-4c7d-a64e-a1d42aee0c3c,notifiable.gripe,available,6.98,8.98,medium,low,10,namecheap,,,03/09/2026 22:10
 6c3d38bb-912f-4aec-928c-0723522873d4,eruption.gripe,available,6.99,6.99,high,low,8,namesilo,,,24/09/2026 15:18
 442ed944-ae3c-4c31-a732-80a7d41137e5,aerobiotic.gripe,available,6.98,8.98,medium,low,10,namecheap,,,
 7f23a35d-aaf2-4508-a595-7102a1aa3151,weapons.gripe,available,6.99,6.99,medium,low,7,namesilo,,,25/09/2026 17:10
 736cf989-e371-4820-9ffb-afef31d51570,linking.gripe,available,5.38,5.38,high,low,7,spaceship,,,29/09/2026 08:52
 f91384cd-eb34-4217-ba5c-a99c04dd8120,purr.gripe,available,6.98,8.98,high,low,4,namecheap,,,23/09/2026 20:53
+2138ee7f-6fe0-4d6d-9fae-878eaecbb0e9,brightest.gripe,available,5.38,5.38,high,low,9,spaceship,,,30/09/2026 06:56
 32107e1b-9dc1-499f-8953-045f17b459a2,gardening.gripe,available,6.99,6.99,high,low,9,namesilo,,,28/09/2026 14:15
 ce61ee45-9b03-49f7-a44b-c9790811428e,byers.gripe,available,6.99,6.99,medium,low,5,namesilo,,,29/09/2026 09:57
 3c228d3c-1b2c-40f1-a960-4b8f44ecc0ed,sunstruck.gripe,available,6.98,8.98,medium,low,9,namecheap,,,11/09/2026 02:01
-3b3c0a82-ab24-4fad-85e3-9bb5b1eb678a,wong.gripe,available,6.98,8.98,high,low,4,namecheap,,,26/09/2026 03:13
+3b3c0a82-ab24-4fad-85e3-9bb5b1eb678a,wong.gripe,available,6.98,8.98,medium,low,4,namecheap,,,26/09/2026 03:13
 182dd1a5-27b5-47e8-95dc-d1f125b39ea0,greens.gripe,available,5.66,5.66,high,low,6,porkbun,,,29/09/2026 21:34
 aa76a80d-6c7b-4d94-9f89-a124026d0214,assent.gripe,available,6.99,6.99,high,low,6,namesilo,,,20/09/2026 16:09
 8d17b9ce-72b1-427f-85b6-1d770f680748,rattled.gripe,available,6.98,8.98,medium,low,7,namecheap,,,18/08/2026 09:33
 065736a1-7765-4641-bd3c-cbab8d51833b,weedless.gripe,available,6.98,8.98,medium,low,8,namecheap,,,13/09/2026 10:00
 cf93237d-0673-45d7-8593-c41e1ea42dc3,unchanged.gripe,available,6.98,8.98,high,low,9,namecheap,,,12/09/2026 00:32
 7ee34fc0-2a7e-4595-a829-1bceeed9dde9,manpower.gripe,available,6.99,6.99,high,low,8,namesilo,,,28/09/2026 14:49
+4ace795a-686b-4a8d-a175-4a4b911a8176,influences.gripe,available,5.2,5.2,medium,low,10,cloudflare,,,30/09/2026 07:02
 1a8fa2ae-5fc2-486f-9cd7-6eb40640237e,investors.gripe,available,6.98,8.98,high,low,9,namecheap,,,
 c95f0103-aafa-4db1-ab99-368d26c8ccd8,potatoes.gripe,available,6.99,6.99,medium,low,8,namesilo,,,27/09/2026 02:12
+b3bc0c4a-0d25-4b6a-a185-9555d92b63aa,pendulum.gripe,available,6.99,6.99,high,low,8,namesilo,,,01/10/2026 03:17
 057a4286-fc70-4349-9426-6b60d9c70908,scummy.gripe,available,6.98,8.98,medium,low,6,namecheap,,,
 377109d6-42a4-4738-85d8-6432e3ad520e,titanic.gripe,available,6.98,8.98,high,low,7,namecheap,,,11/09/2026 16:30
 4b7f892f-d74c-41b5-9028-d757de330dd0,bevel.gripe,available,6.99,6.99,medium,low,5,namesilo,,,23/09/2026 11:58
 b30207f1-0cff-4819-935c-6048e09315f0,wheezy.gripe,available,6.98,8.98,medium,low,6,namecheap,,,07/08/2026 09:31
+1820f8d6-97b6-4420-90aa-55cd9d5f2605,limburg.gripe,available,6.99,6.99,medium,low,7,namesilo,,,30/09/2026 23:06
 c632f2f0-a383-414d-a71f-7b52565a1e6a,iced.gripe,available,5.2,5.2,high,low,4,cloudflare,,,29/09/2026 14:21
 acc1cc02-119f-4386-b27a-4c0bedfc94d0,adopt.gripe,available,6.99,6.99,high,low,5,namesilo,,,28/09/2026 03:18
 2d0fb94b-cdbe-4eb5-9fb8-47d352584bf3,argot.gripe,available,6.98,8.98,medium,low,5,namecheap,,,13/09/2026 04:14
@@ -794,6 +862,7 @@ aa281fc5-637a-494c-a75f-094c129784e7,maureen.gripe,available,5.38,5.38,medium,lo
 b78eedcb-b387-4884-aba8-50abddaa81e2,lemony.gripe,available,6.98,8.98,high,low,6,namecheap,,,22/08/2026 23:24
 c1df39bd-51ae-49df-ae51-af707d289725,numerous.gripe,available,6.98,8.98,high,low,8,namecheap,,,22/08/2026 23:01
 a30a6594-037b-4b16-a767-7ce9bdfd935f,herzog.gripe,available,6.98,8.98,high,low,6,namecheap,,,28/09/2026 16:13
+e2d14ff1-67e8-4747-8ebf-364812fd99e0,wildfire.gripe,available,6.99,6.99,high,low,8,namesilo,,,01/10/2026 04:06
 2f40feb1-68ea-4e57-88a4-32e83d57305f,obamacare.gripe,available,6.99,6.99,medium,low,10,namesilo,,,
 8eb2ace3-5fe8-4910-927a-415928a1a80f,fluky.gripe,available,6.98,8.98,medium,low,5,namecheap,,,18/08/2026 09:19
 b6928d5d-3aca-41d4-b93a-84e0157dfd27,vicksburg.gripe,available,6.99,6.99,medium,low,9,namesilo,,,28/09/2026 03:05
@@ -804,8 +873,8 @@ ed295979-5776-43ba-920b-a1926a6e4d66,psc.gripe,available,6.99,6.99,high,low,3,na
 2051f752-f520-4565-9d6e-9439b9d17bdd,dawes.gripe,available,6.98,8.98,medium,low,5,namecheap,,,28/09/2026 09:30
 db43be24-aec9-4c74-9915-bf8f06baf875,vile.gripe,available,6.98,8.98,medium,low,4,namecheap,,,14/08/2026 04:01
 79abe8d5-f05a-4fc6-bdcf-608ee8e4e4cb,medieval.gripe,available,6.99,6.99,high,low,8,namesilo,,,12/08/2026 06:12
-99b97a50-1c89-4546-9525-cc80cc88deb6,alloyed.gripe,available,6.98,8.98,high,low,7,namecheap,,,
-4413ed0c-968d-4c6c-be1e-def5e7f6e0d7,takeoff.gripe,available,5.38,5.38,high,low,7,spaceship,,,29/09/2026 18:17
+99b97a50-1c89-4546-9525-cc80cc88deb6,alloyed.gripe,available,6.98,8.98,medium,low,7,namecheap,,,
+4413ed0c-968d-4c6c-be1e-def5e7f6e0d7,takeoff.gripe,available,6.99,6.99,high,low,7,namesilo,,,30/09/2026 05:48
 960d0355-133b-4b87-885d-f389b87da6b2,wobbly.gripe,available,6.99,6.99,high,low,6,namesilo,,,27/09/2026 14:59
 8fbe7f95-5c1f-482f-bda2-cde8992d0574,suburban.gripe,available,6.98,8.98,high,low,8,namecheap,,,11/09/2026 00:54
 ba5ce8a8-fd1c-41fd-8ec4-9450d875290a,drogue.gripe,available,6.99,6.99,medium,low,6,namesilo,,,17/09/2026 21:47
@@ -816,7 +885,10 @@ c480a858-ac3a-43a1-95fe-20d626781a50,monkeys.gripe,available,6.98,8.98,medium,lo
 fd3e63f8-e9e6-41c8-8ea9-f48c40bb4d93,cripple.gripe,available,6.98,8.98,medium,low,7,namecheap,,,22/08/2026 18:58
 875a293f-9798-4b3a-9cd3-e46b0a30ecff,hoop.gripe,available,6.99,6.99,high,low,4,namesilo,,,22/09/2026 11:23
 a85922b6-9d71-46ca-a939-824fe5da8114,hushed.gripe,available,6.98,8.98,medium,low,6,namecheap,,,21/08/2026 15:54
-3809eea4-3757-4ac7-8d9c-7a0389b7753b,newsgroup.gripe,available,8.98,,high,low,9,namecheap,,,
+65a40590-817f-4e59-b828-e8556df213d7,diocletian.gripe,available,5.2,5.2,medium,low,10,cloudflare,,,30/09/2026 16:59
+6c953e07-93d2-45c3-a8ba-d352609efd20,issa.gripe,available,5.38,5.38,high,low,4,spaceship,,,30/09/2026 20:12
+3809eea4-3757-4ac7-8d9c-7a0389b7753b,newsgroup.gripe,available,8.98,,medium,low,9,namecheap,,,
+5fb33bea-69fe-47a4-8100-a985c8b6329d,instances.gripe,available,5.2,5.2,medium,low,9,cloudflare,,,30/09/2026 23:59
 57283ba3-0a01-442b-92d7-73d35891cb6f,anaphora.gripe,available,6.99,6.99,medium,low,8,namesilo,,,19/09/2026 02:13
 f4d98123-d158-40b3-ae35-3d0a3acd7946,segregated.gripe,available,6.98,8.98,medium,low,10,namecheap,,,10/09/2026 01:51
 4db27c88-af91-43ee-b949-d2086c194240,titus.gripe,available,6.99,6.99,high,low,5,namesilo,,,25/09/2026 05:37
@@ -824,6 +896,7 @@ f4d98123-d158-40b3-ae35-3d0a3acd7946,segregated.gripe,available,6.98,8.98,medium
 532b36c6-9775-4a41-bc5f-560e2579ad1d,irc.gripe,available,5.38,5.38,high,low,3,spaceship,,,28/09/2026 20:54
 f36acbc5-adc8-4d35-8184-698d51bc415c,idf.gripe,available,5.38,5.38,high,low,3,spaceship,,,28/09/2026 14:30
 49864611-ee5b-425e-8e33-6273e0102078,annals.gripe,available,6.98,8.98,high,low,6,namecheap,,,19/09/2026 10:05
+2aca498f-7e37-4a43-ae4c-2c1b10ed63ce,ims.gripe,available,5.38,5.38,high,low,3,spaceship,,,30/09/2026 06:44
 8200641d-f31e-4614-bc07-66d801c36224,footballers.gripe,available,6.99,6.99,medium,low,11,namesilo,,,20/09/2026 13:07
 90885e90-f338-4701-a57c-36412424135a,behalf.gripe,available,6.99,6.99,high,low,6,namesilo,,,23/09/2026 03:04
 23827f86-3693-4bdf-aefa-1d91ecbd3ee9,numbat.gripe,available,6.99,6.99,medium,low,6,namesilo,,,22/09/2026 01:07
@@ -840,10 +913,10 @@ c42d8c5a-9b8e-46b8-8641-031037d6a612,helium.gripe,available,6.98,8.98,high,low,6
 2e301326-fafc-4f4d-abad-aa46b6fe7aa6,hook.gripe,available,5.57,5.57,high,low,4,dynadot,,,28/09/2026 18:24
 d7668175-1ac0-48d3-a176-3283e51a4f9c,shabby.gripe,available,6.98,8.98,medium,low,6,namecheap,,,25/08/2026 06:58
 a0ae74ba-1164-452c-b59f-4c46383298a0,flux.gripe,available,9.99,9.99,high,medium,4,godaddy,,,30/09/2026 01:38
-14eb4523-ffe3-4d0a-b9c3-5f0dd100601b,cinema.gripe,available,5.66,5.66,high,low,6,porkbun,,,28/09/2026 05:06
+14eb4523-ffe3-4d0a-b9c3-5f0dd100601b,cinema.gripe,available,5.38,5.38,high,low,6,spaceship,,,01/10/2026 03:10
 5ab970e0-8e80-495f-88f3-e5da9b887f8a,karin.gripe,available,5.38,5.38,medium,low,5,spaceship,,,29/09/2026 04:04
 614c8ebf-e8c3-44dc-a89c-cf934d6ec18c,gibson.gripe,available,6.98,8.98,high,low,6,namecheap,,,18/09/2026 14:55
-62497b80-6f9b-4f6c-9001-38580f0b135d,cranial.gripe,available,6.98,8.98,high,low,7,namecheap,,,13/08/2026 04:49
+62497b80-6f9b-4f6c-9001-38580f0b135d,cranial.gripe,available,6.98,8.98,medium,low,7,namecheap,,,13/08/2026 04:49
 7fb9f12f-fa10-4b28-be39-3825a797bffa,unemployment.gripe,available,6.99,6.99,high,low,12,namesilo,,,
 6dc5aa39-13e1-4bb6-b010-1fa275ff9c13,graphics.gripe,premium,68.51,68.51,high,low,8,spaceship,,,28/09/2026 22:24
 a3403294-a71a-4321-bfb4-048cb53c7d8f,neuronal.gripe,available,6.98,8.98,medium,low,8,namecheap,,,03/09/2026 16:20
@@ -860,19 +933,24 @@ a13bf164-26d8-41dd-9760-999e702314b5,nadia.gripe,available,5.57,5.57,medium,low,
 4941b8e7-9772-43c2-a988-e39e526e006b,anodic.gripe,available,6.98,8.98,high,low,6,namecheap,,,
 0ee0c7ad-1edb-4004-84f1-3dcfc6b2f942,andalusian.gripe,available,6.98,8.98,high,low,10,namecheap,,,
 9fc4c825-7ae8-4457-a38c-e6bc57c9a71d,defeat.gripe,available,6.98,8.98,medium,low,6,namecheap,,,27/09/2026 12:58
+af75e026-d68e-4e89-a08c-7bbb19dc7cf5,dispense.gripe,available,6.99,6.99,high,low,8,namesilo,,,01/10/2026 04:11
 59339c80-2541-42c4-9bf0-b31574d0d1f0,elmira.gripe,available,6.99,6.99,medium,low,6,namesilo,,,28/09/2026 16:42
+f13b9875-ea5d-4e68-b5ea-c7147c22ee4d,inconclusive.gripe,available,6.99,6.99,high,low,12,namesilo,,,30/09/2026 04:07
+7d5dbe58-33ed-4475-b76f-8e9b373cbdb2,slammed.gripe,available,5.57,5.57,medium,low,7,dynadot,,,30/09/2026 03:50
 2efa1dfa-a2fd-4443-91ae-64ccebff3c40,peripheral.gripe,available,6.98,8.98,high,low,10,namecheap,,,08/09/2026 17:14
-eb09dcde-5a23-46c7-9761-9f4e7ef024cc,nicene.gripe,available,6.98,8.98,high,low,6,namecheap,,,03/09/2026 17:01
+eb09dcde-5a23-46c7-9761-9f4e7ef024cc,nicene.gripe,available,6.98,8.98,medium,low,6,namecheap,,,03/09/2026 17:01
+9a2f2320-0819-4653-94a8-4013bde7432d,factions.gripe,available,5.66,5.66,medium,low,8,porkbun,,,01/10/2026 00:34
 488f0f3d-678d-4908-b8cb-66b384aaba4f,adige.gripe,available,6.98,8.98,medium,low,5,namecheap,,,17/09/2026 08:16
-6e13edfb-6537-4548-84b7-547f828de42c,faceted.gripe,available,6.98,8.98,high,low,7,namecheap,,,17/08/2026 20:24
+6e13edfb-6537-4548-84b7-547f828de42c,faceted.gripe,available,6.98,8.98,medium,low,7,namecheap,,,17/08/2026 20:24
 3c85c22a-3c4f-4f80-8ebb-686491050fc1,belloc.gripe,available,6.99,6.99,medium,low,6,namesilo,,,23/09/2026 06:16
 1ec7087a-05f5-403b-bd97-b7ad66c77dfb,refreshing.gripe,available,6.98,8.98,high,low,10,namecheap,,,11/08/2026 00:37
 b186b5b5-7923-48cb-97c1-1d93f370a53b,quivering.gripe,available,6.98,8.98,medium,low,9,namecheap,,,11/09/2026 19:15
 fd819fca-c626-4ffa-8fed-3d9f4c505e89,vehicles.gripe,available,6.99,6.99,medium,low,8,namesilo,,,16/09/2026 11:23
 e14f51bc-9f6d-4efd-a5f0-cd9edf768a21,mccormick.gripe,available,6.98,8.98,high,low,9,namecheap,,,25/09/2026 04:30
+d8e323dd-804a-4a8e-b13f-f6092eff6ce0,managua.gripe,available,6.99,6.99,high,low,7,namesilo,,,30/09/2026 16:36
 d734659d-10ff-4caf-9b3e-2a6bfb145274,memorably.gripe,available,6.98,8.98,medium,low,9,namecheap,,,15/09/2026 14:01
 9a0c9c1e-10e1-4673-90e2-14ed3a0ba6ce,breathtaking.gripe,available,6.99,6.99,high,low,12,namesilo,,,
-8999d20d-7824-43d8-93e8-7ebb6cfb6d4c,permissive.gripe,available,6.98,8.98,high,low,10,namecheap,,,08/09/2026 17:48
+8999d20d-7824-43d8-93e8-7ebb6cfb6d4c,permissive.gripe,available,6.98,8.98,medium,low,10,namecheap,,,08/09/2026 17:48
 a9801ed1-700a-4640-8a77-60ab9e0d481e,passports.gripe,available,6.99,6.99,medium,low,9,namesilo,,,20/09/2026 09:52
 aef6965c-e573-4642-8a06-514504918a2c,paperback.gripe,available,6.98,8.98,high,low,9,namecheap,,,27/09/2026 02:40
 36d4953e-bad3-4cfe-80d1-354bf41c0d6d,scattered.gripe,available,6.98,8.98,medium,low,9,namecheap,,,14/08/2026 11:23
@@ -887,21 +965,26 @@ d2a7c8ca-725b-4825-adb1-3a610decd10d,imprudent.gripe,available,6.98,8.98,medium,
 894286e3-4717-42c6-a869-9d10ed6bb8da,duplex.gripe,available,6.98,8.98,high,low,6,namecheap,,,14/08/2026 21:23
 d1342492-697e-4310-982d-2d2ef100a413,savior.gripe,available,6.99,6.99,high,low,6,namesilo,,,24/09/2026 14:49
 be73dc75-ef2e-485e-a133-acc4a921372c,poet.gripe,available,6.98,8.98,high,low,4,namecheap,,,27/09/2026 05:01
+888195f0-a9e6-40d6-aa61-d5e37dee19e8,usps.gripe,available,6.99,6.99,high,low,4,namesilo,,,01/10/2026 04:05
 98bfc8ff-2c23-45b6-a090-ffafe0a428dc,naomi.gripe,available,6.99,6.99,medium,low,5,namesilo,,,28/09/2026 14:57
 b58260e1-5366-459f-861b-d966ce095abc,heartless.gripe,available,6.98,8.98,medium,low,9,namecheap,,,21/08/2026 00:47
-49b5cc8c-a892-4604-b50c-0f4cb5d6a216,bjs.gripe,available,6.99,6.99,high,low,3,namesilo,,,23/09/2026 23:25
+c7a89ff7-8478-420e-bf56-d3a9fe033f76,cic.gripe,available,5.2,5.2,high,low,3,cloudflare,,,30/09/2026 04:17
+49b5cc8c-a892-4604-b50c-0f4cb5d6a216,bjs.gripe,available,6.99,6.99,medium,low,3,namesilo,,,23/09/2026 23:25
 b3a0e708-1869-4294-a49c-15cd71135563,irascible.gripe,available,6.98,8.98,medium,low,9,namecheap,,,21/08/2026 14:18
 0128dad0-bf7b-4d94-8da5-b40a38f36387,astatic.gripe,available,6.98,8.98,medium,low,7,namecheap,,,07/08/2026 08:36
 c1f82acf-8dd5-4431-972c-e250cd07ac59,abeyant.gripe,available,6.98,8.98,medium,low,7,namecheap,,,
+f4d3edf1-a100-4778-90d8-cc472f3a7187,inning.gripe,available,5.2,5.2,high,low,6,cloudflare,,,30/09/2026 17:41
 fe68a25b-24d4-4986-86aa-f3ece8b8a52e,mouth.gripe,available,5.38,5.38,high,low,5,spaceship,,,28/09/2026 08:01
 f2750dbb-5a4b-4c46-b635-807dbaf49e0d,hogan.gripe,available,6.98,8.98,high,low,5,namecheap,,,23/09/2026 07:21
 c8c1c9d1-b4d1-4656-8c92-47910f10ee0e,villages.gripe,available,6.99,6.99,medium,low,8,namesilo,,,29/09/2026 05:32
 0879e098-3947-4d74-8b0d-4d982e940a8d,flattering.gripe,available,6.98,8.98,high,low,10,namecheap,,,18/08/2026 06:57
 85a4a2e7-9bd0-483e-ba09-29085130953a,omnivorous.gripe,available,6.98,8.98,medium,low,10,namecheap,,,04/09/2026 13:56
+bc31b4b7-da8f-4b05-9a5a-6f9816563ca4,mandalay.gripe,available,6.99,6.99,high,low,8,namesilo,,,01/10/2026 02:58
 43d4730e-468e-4d43-9493-f754822e0364,applet.gripe,available,6.98,8.98,high,low,6,namecheap,,,19/09/2026 21:38
 fc6b8ab0-897e-4a04-9e1b-301985af2fa3,angara.gripe,available,6.99,6.99,medium,low,6,namesilo,,,19/09/2026 05:44
 feac9581-d116-4602-aefc-88d81bc3a38f,delusion.gripe,available,6.98,8.98,high,low,8,namecheap,,,24/09/2026 21:45
 7e283de3-7095-4f72-b59d-ea8ed6343e14,cologne.gripe,premium,78.54,78.54,high,low,7,namesilo,,,24/09/2026 16:20
+5fe10728-9329-40a6-8072-05fbe6461e87,spindle.gripe,available,6.99,6.99,high,low,7,namesilo,,,01/10/2026 02:58
 9cfba919-c407-461d-8d54-edea865bbdec,privy.gripe,available,6.98,8.98,high,low,5,namecheap,,,09/09/2026 02:12
 3350410f-d956-48eb-ae45-177aeb752566,scripps.gripe,available,6.99,6.99,high,low,7,namesilo,,,28/09/2026 05:34
 cd257d78-8390-4fac-89db-a071030eead3,tinkling.gripe,available,6.98,8.98,medium,low,8,namecheap,,,11/09/2026 16:13
@@ -909,93 +992,10 @@ cd257d78-8390-4fac-89db-a071030eead3,tinkling.gripe,available,6.98,8.98,medium,l
 06e11b20-7971-440a-87ec-553cf0d06bda,mccoy.gripe,available,5.38,5.38,high,low,5,spaceship,,,27/09/2026 21:17
 ccedce71-c3c1-4ed8-8841-2534f4d03d53,commonsense.gripe,available,6.99,6.99,high,low,12,namesilo,,,
 90cecd26-6d81-4b6c-a6e6-0369bc7cba26,fedex.gripe,available,6.99,6.99,high,low,5,namesilo,,,
+0ea2a947-c4a7-4ccb-b2dc-f94a3cc3a45e,charlene.gripe,available,5.57,5.57,medium,low,8,dynadot,,,30/09/2026 21:03
 b7276518-c53c-4509-88d9-ecabe20c6ca9,cxlv.gripe,available,6.98,8.98,medium,low,4,namecheap,,,
 c7608f38-640d-4583-a73e-ef4d90e027f4,resting.gripe,available,5.2,5.2,high,low,7,cloudflare,,,28/09/2026 04:49
 ddce38c6-ae34-469c-99c0-b02fe89fd8ca,catches.gripe,available,5.38,5.38,medium,low,7,spaceship,,,28/09/2026 04:27
 5c8ac8df-6b33-4994-a377-2566bef1f9e4,brookings.gripe,available,6.99,6.99,medium,low,9,namesilo,,,28/09/2026 16:41
 02f20074-e201-4da7-b212-52f1bd2265c5,intervene.gripe,available,5.2,5.2,high,low,9,cloudflare,,,29/09/2026 08:23
 b0dd31d4-4b4b-4226-99bc-b17372fbde8d,sugar.gripe,available,5.38,5.38,high,low,5,spaceship,,,29/09/2026 08:02
-bd95bd24-1531-4ee8-baf3-f54f539732df,satiate.gripe,available,6.98,8.98,high,low,7,namecheap,,,09/09/2026 14:28
-146875bf-4a36-4d36-8816-6b571500fd2c,spokesman.gripe,available,5.2,5.2,high,low,9,cloudflare,,,29/09/2026 08:06
-4204bbf2-152a-45fa-9b5b-56fcfdb7dbd8,smiths.gripe,available,6.99,6.99,medium,low,6,namesilo,,,19/09/2026 22:24
-13dc9295-267a-42f8-bae4-894791a3494c,cali.gripe,available,5.66,5.66,high,low,4,porkbun,,,29/09/2026 05:53
-70d3890a-be3c-42f7-a8cf-3f60adf270f5,brutality.gripe,available,6.98,8.98,medium,low,9,namecheap,,,22/09/2026 04:26
-dcbf2d47-a56b-4073-a83b-7428767573f5,crazily.gripe,available,6.98,8.98,medium,low,7,namecheap,,,14/09/2026 09:15
-01762809-54d9-4e98-9233-6c3d722c56ae,cesium.gripe,available,6.99,6.99,medium,low,6,namesilo,,,20/09/2026 23:15
-155e43b9-e657-4e2f-adee-ae8e5959f7a7,endermic.gripe,available,6.98,8.98,medium,low,8,namecheap,,,17/08/2026 00:56
-a252484c-646e-4b20-9b9a-c96ea83997c2,turkish.gripe,available,6.98,8.98,high,low,7,namecheap,,,11/09/2026 21:18
-ec70137a-8991-42ea-95de-36d7d8c4cca1,lily.gripe,available,6.99,6.99,high,medium,4,namesilo,,,28/09/2026 02:17
-088e9efc-c2be-453d-a73d-e8601c104823,garrett.gripe,available,6.99,6.99,high,low,7,namesilo,,,25/09/2026 14:29
-cd5b612a-c111-473f-801b-94c9cc819cc3,bimodal.gripe,available,6.98,8.98,high,low,7,namecheap,,,09/08/2026 23:23
-e661a0a3-2815-457c-9ca6-9854eb51b3e0,reducing.gripe,available,6.99,6.99,high,low,8,namesilo,,,29/09/2026 07:56
-88cfb466-218d-4123-96a6-0af91a6a3b45,iambic.gripe,available,6.98,8.98,medium,low,6,namecheap,,,21/08/2026 17:28
-62f993d1-b0aa-44c0-b357-b8fb26fded9e,nutrient.gripe,available,6.98,8.98,high,low,8,namecheap,,,08/09/2026 11:42
-838059bf-7a5e-43e0-ac2a-bdedc45366c9,incident.gripe,available,6.98,8.98,high,low,8,namecheap,,,22/08/2026 01:19
-89a215ce-9b1d-4a0b-baaa-60567f1f3af8,toklas.gripe,available,6.99,6.99,high,low,6,namesilo,,,18/09/2026 07:28
-60ade445-4eef-41fd-a445-696c589798bd,furious.gripe,available,6.98,8.98,high,low,7,namecheap,,,
-97b798ef-e42f-4e13-a5e9-cef5a378c536,bpi.gripe,available,6.99,6.99,high,low,3,namesilo,,,23/09/2026 22:46
-8519c7dd-96d4-4227-b8ed-f06dbb85d4cc,alcoholism.gripe,available,6.98,8.98,high,low,10,namecheap,,,18/09/2026 04:06
-e6c0937c-84fa-40f5-9ba7-e87c7e10c1af,seward.gripe,available,6.99,6.99,high,low,6,namesilo,,,28/09/2026 03:05
-849a15cf-c329-4efb-88ac-f81e971e8e83,profession.gripe,available,6.99,6.99,high,low,10,namesilo,,,
-1379d3a7-223d-4f45-904e-b944a495bcfa,fifties.gripe,available,6.98,8.98,high,low,7,namecheap,,,16/09/2026 12:10
-d83f555f-943f-41da-b8f0-79f28b8426b0,sumbuddy.gripe,available,6.99,6.99,low,low,8,namesilo,,,
-202370bb-ea74-4c78-bcd9-7bd7ab009544,angelical.gripe,available,6.99,6.99,high,low,9,namesilo,,,22/09/2026 04:27
-f2c27fcc-4020-4145-8488-e435574fe8be,plausibly.gripe,available,6.98,8.98,high,low,9,namecheap,,,14/09/2026 09:28
-3453db7a-429a-4746-af2c-b8b69474a805,bigram.gripe,available,6.98,8.98,medium,low,6,namecheap,,,23/09/2026 15:24
-85b485f9-833f-44b8-ba1e-d3ab25a048cc,rally.gripe,available,6.98,8.98,high,medium,5,namecheap,,,21/09/2026 19:55
-632c7a10-20fe-489f-996e-6075537d3fbf,moser.gripe,available,6.99,6.99,medium,low,5,namesilo,,,29/09/2026 03:32
-0a514fe4-9955-4408-a5b1-123f8e1880f5,knotty.gripe,available,6.98,8.98,medium,low,6,namecheap,,,08/08/2026 08:12
-f8fb0fa5-ff77-4b48-beaf-ae4f56a85eec,grenades.gripe,available,5.2,5.2,low,low,8,cloudflare,,,30/09/2026 00:32
-6f0ef598-4154-4a62-b9d0-33a7075e306d,relation.gripe,available,6.99,6.99,high,low,8,namesilo,,,27/09/2026 11:47
-8055e164-5ce0-4bea-b210-8850db5f25ce,brandy.gripe,available,6.99,6.99,high,low,6,namesilo,,,24/09/2026 08:12
-2a6ef1d3-ee21-4388-a61b-8b112febb499,hydroponic.gripe,available,6.98,8.98,medium,low,10,namecheap,,,06/08/2026 10:34
-ab20b723-ffa0-4ea0-9c48-a5de0fa7196d,saturated.gripe,available,6.98,8.98,medium,low,9,namecheap,,,09/09/2026 21:53
-a2ca185b-4c81-4004-ab7d-3a31225f0705,mythical.gripe,available,6.98,8.98,high,low,8,namecheap,,,03/09/2026 12:31
-b5b23704-9048-46da-bdcc-e91cb444117d,invariable.gripe,available,6.98,8.98,high,low,10,namecheap,,,12/08/2026 22:58
-fcae51b4-a951-4aa9-b73d-828b15843d12,reflects.gripe,available,6.99,6.99,medium,low,8,namesilo,,,17/09/2026 15:27
-0911ca0a-932f-44df-8ec5-1b2a7af4eddd,infirm.gripe,available,39.49,43.99,medium,low,6,name.com,,,13/08/2026 20:32
-22695acf-0e2a-47d5-8e4d-f2cc31f9585e,lexical.gripe,available,6.98,8.98,high,low,7,namecheap,,,23/08/2026 00:42
-7e64d3f4-943c-479b-9418-386e0718312f,edified.gripe,available,6.98,8.98,medium,low,7,namecheap,,,15/08/2026 09:32
-b6e9021e-4edc-4ace-b025-1af5cce495e6,yorktown.gripe,available,5.2,5.2,medium,low,8,cloudflare,,,28/09/2026 10:55
-89355b2d-086e-4f94-a05d-857bc40b8df7,whimsical.gripe,available,6.98,8.98,high,low,9,namecheap,,,13/09/2026 11:24
-eef83bdd-b7d5-464a-a205-4e0c2ed2896b,zoo.gripe,premium,78.54,78.54,high,low,3,namesilo,,,26/09/2026 00:33
-d46dc2e6-eb4d-466e-871e-439b7d74ef5d,encouraging.gripe,available,6.99,6.99,high,low,11,namesilo,,,
-e6286412-deb2-4f0c-a2e6-1083667504b8,eventually.gripe,available,6.98,8.98,high,low,10,namecheap,,,14/09/2026 16:32
-53f69971-4e1a-4c37-9f81-31bb520a0e0b,prank.gripe,available,6.99,6.99,high,low,5,namesilo,,,22/09/2026 06:23
-9b09afce-de8d-44b3-88be-c48ecff14578,warlike.gripe,available,6.98,8.98,medium,low,7,namecheap,,,21/08/2026 01:40
-6f64ee64-8969-4128-a53b-d38f8dba7c1f,unwrapped.gripe,available,6.98,8.98,high,low,9,namecheap,,,12/09/2026 22:53
-a9a5ecde-b2bc-468d-9d8b-af31684fb6fc,bosh.gripe,available,6.98,8.98,medium,low,4,namecheap,,,21/09/2026 23:47
-06071a4e-3aac-4e21-9e30-68ca78765c23,descent.gripe,available,6.98,8.98,high,low,7,namecheap,,,08/09/2026 13:07
-7007ec27-b3c8-45af-a644-6eb127b7b296,anosmic.gripe,available,6.98,8.98,medium,low,7,namecheap,,,
-9557211b-f78a-4b2e-9f2c-9fb83826eeee,cooking.gripe,available,6.99,6.99,high,low,7,namesilo,,,28/09/2026 06:07
-fdbcdd64-0c3c-4dae-a845-65d1457697f3,anesthesia.gripe,available,5.38,5.38,high,low,10,spaceship,,,28/09/2026 21:08
-1ca126cd-e1e0-473c-98f6-2cd900446283,adynamic.gripe,available,6.98,8.98,medium,low,8,namecheap,,,
-7b628331-28e0-452d-a433-f6719ad08700,fair.gripe,available,6.99,6.99,high,medium,4,namesilo,,,22/09/2026 23:43
-388430b4-d3da-4019-ae54-8d95398f75d8,caliginous.gripe,available,6.98,8.98,low,low,10,namecheap,,,11/08/2026 14:25
-1d93babb-f334-4bae-99e2-7832ef8bf8be,triangular.gripe,available,6.98,8.98,high,low,10,namecheap,,,11/09/2026 14:30
-c706ca52-50d8-4757-b8b0-634163c4993b,sunless.gripe,available,6.98,8.98,medium,low,7,namecheap,,,12/08/2026 12:31
-363e7625-d40a-4d5f-974e-2a2c9821c095,analyst.gripe,available,6.99,6.99,high,low,7,namesilo,,,28/09/2026 07:53
-f1b26c8b-e08a-49b5-9fd8-99be81611b19,munificent.gripe,available,6.98,8.98,high,low,10,namecheap,,,22/08/2026 21:09
-466f40bb-e474-405d-aabd-26c7a3627d80,semiformal.gripe,available,6.98,8.98,high,low,10,namecheap,,,10/08/2026 11:42
-8943d615-5296-4fd7-9e37-ea92199ead29,disrepute.gripe,available,6.99,6.99,medium,low,9,namesilo,,,24/09/2026 22:34
-03fc2717-6dbc-4cc1-9936-6f015c06863a,orderly.gripe,available,6.98,8.98,high,low,7,namecheap,,,03/09/2026 14:34
-60363b9c-f75e-4b9a-bc1e-a8c41c5a5ad7,seals.gripe,available,6.99,6.99,high,low,5,namesilo,,,
-32e1d851-47e5-48c2-a0df-f9c3c0f25d1e,whelan.gripe,available,6.98,8.98,medium,low,6,namecheap,,,29/09/2026 16:28
-d6257873-c53f-47e9-9b23-7a15553f355e,championship.gripe,available,6.99,6.99,high,low,12,namesilo,,,27/09/2026 02:00
-22678248-5993-4474-8de6-47713f9da8bd,cerise.gripe,available,6.98,8.98,medium,low,6,namecheap,,,10/08/2026 15:04
-bd15819a-a713-4508-ab8c-36d3d67b553d,malformed.gripe,available,6.98,8.98,medium,low,9,namecheap,,,13/08/2026 23:43
-16d0eb66-09c7-49a0-bd73-7701a87d5698,venous.gripe,available,6.98,8.98,medium,low,6,namecheap,,,13/09/2026 02:10
-ea8637f4-80eb-44ae-90f0-cb51d50d85f1,diseases.gripe,available,6.98,8.98,low,low,8,namecheap,,,17/09/2026 16:41
-ddb9f47d-b6ac-4365-82ae-292fb7cc0802,consolation.gripe,available,5.2,5.2,high,low,11,cloudflare,,,28/09/2026 22:58
-42bf1da4-9586-40a5-ad3d-4cb2f1434e62,cockcrow.gripe,available,6.98,8.98,medium,low,8,namecheap,,,11/09/2026 02:11
-6073eeac-6316-4fe8-b077-b1d5f03835f5,beast.gripe,available,6.99,6.99,high,low,5,namesilo,,,22/09/2026 04:42
-19bb1d37-e390-4a0e-b571-326f8306cec6,advertiser.gripe,available,6.99,6.99,high,low,10,namesilo,,,17/09/2026 08:38
-85848f84-78b5-4550-b504-a963ceb0ddbe,slay.gripe,available,6.98,8.98,high,low,4,namecheap,,,04/09/2026 00:55
-0084e4dc-0032-46f8-813c-28c264a448e5,bhang.gripe,available,6.99,6.99,medium,low,5,namesilo,,,23/09/2026 12:34
-2339be19-9c6d-4837-a524-a11ee8c965a0,tempers.gripe,available,6.99,6.99,medium,low,7,namesilo,,,20/09/2026 14:00
-8cfac0f8-26ee-4148-9057-f60089da2898,drastic.gripe,available,6.98,8.98,high,low,7,namecheap,,,14/08/2026 18:27
-6dca423d-04dd-4bdd-b78e-e781b1e61d80,activation.gripe,available,6.98,8.98,high,low,10,namecheap,,,
-0ed0c9cf-4b7f-4e2e-9e04-b123ceb7d726,pianist.gripe,available,5.38,5.38,high,low,7,spaceship,,,29/09/2026 13:41
-08a13333-b269-4f71-a73c-559534e58322,moments.gripe,available,6.98,8.98,medium,low,7,namecheap,,,25/09/2026 20:25
-c602698e-dbbd-453c-a868-3775d5d9d867,attachable.gripe,available,6.98,8.98,medium,low,10,namecheap,,,07/08/2026 15:36
-4f185cb2-b166-4d73-8ad2-0b75719b67ed,expansive.gripe,available,6.98,8.98,high,low,9,namecheap,,,17/08/2026 18:00
